@@ -1,0 +1,41 @@
+{
+    "Yap": {
+        "definition": "Bark shrilly",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "Yearn": {
+        "definition": "Feel great longing",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "Yell": {
+        "definition": "A loud sharp cry or call",
+        "partOfSpeech": "noun",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+    
+    "Yelp": {
+        "definition": "A short sharp cry",
+        "partOfSpeech": "noun",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "Yield": {
+        "definition": "Give way to demands or pressure, give up possession of",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    }
+}
