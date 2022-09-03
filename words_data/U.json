@@ -1,5 +1,5 @@
 {
-    "Underling": {
+    "underling": {
         "definition": "A subordinate",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Underrate": {
+    "underrate": {
         "definition": "Underestimate",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Undertake": {
+    "undertake": {
         "definition": "Formally promise, begin an activity",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
     
-    "Uppity": {
+    "uppity": {
         "definition": "Informal-self important",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Uproarious": {
+    "uproarious": {
         "definition": "Very noisy, very funny",
         "partOfSpeech": "adjective",
         "synonyms": [],

@@ -1,5 +1,5 @@
 {
-    "Nimble": {
+    "nimble": {
         "definition": "Quick and agile",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Norm": {
+    "norm": {
         "definition": "The usual or standard thing",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Novice": {
+    "novice": {
         "definition": "A person new to and lacking experience in a job or situation",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
 
-    "Negligible": {
+    "negligible": {
         "definition": "So small or unimportant as to be not worth considering",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -31,8 +31,8 @@
         "examples": []
     },
 
-    "Nettle": {
-        "definition": "Annoy",
+    "nettle": {
+        "definition": "Anoy",
         "partOfSpeech": "verb",
         "synonyms": [],
         "antonyms": [],

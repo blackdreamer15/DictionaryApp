@@ -1,5 +1,5 @@
 {
-    "Jargon": {
+    "jargon": {
         "definition": "Words used by a particular group and hard for others to understand",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Jaunty": {
+    "jaunty": {
         "definition": "Lively and self confident",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Jeer": {
+    "jeer": {
         "definition": "Make rude mocking remarks at",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
 
-    "Jeopardy": {
+    "jeopardy": {
         "definition": "Great danger or risk",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Jest": {
+    "jest": {
         "definition": "Joke, verb-speak in a joking way",
         "partOfSpeech": "noun",
         "synonyms": [],

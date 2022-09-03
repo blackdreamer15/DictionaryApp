@@ -1,5 +1,5 @@
 {
-    "Kleptomania": {
+    "kleptomania": {
         "definition": "A recurring urge to steal",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Knave": {
+    "knave": {
         "definition": "A dishonest man",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Knotty": {
+    "knotty": {
         "definition": "Full of knots, very complex",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
 
-    "Keystone": {
+    "keystone": {
         "definition": "The central part of a policy or system",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Kindle": {
+    "kindle": {
         "definition": "Arouse an emotion",
         "partOfSpeech": "verb",
         "synonyms": [],

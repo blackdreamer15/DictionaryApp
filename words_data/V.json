@@ -1,5 +1,5 @@
 {
-    "Valiant": {
+    "valiant": {
         "definition": "Brave, noble",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Validate": {
+    "validate": {
         "definition": "Check the validity of, make or declare valid",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Vanquish": {
+    "vanquish": {
         "definition": "Defeat thoroughly",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
     
-    "Vantage": {
+    "vantage": {
         "definition": "A position giving a good view",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Variable": {
+    "variable": {
         "definition": "Liable to change, able to vary, differ",
         "partOfSpeech": "adjective",
         "synonyms": [],

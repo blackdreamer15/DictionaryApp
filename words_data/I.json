@@ -1,5 +1,5 @@
 {
-    "Illegible": {
+    "illegible": {
         "definition": "Not clear enough to be read, hard or impossible to read because it is badly written or printed",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -7,14 +7,14 @@
         "examples": []
     },
 
-    "Imbecile": {
+    "imbecile": {
         "definition": "Informal-a stupid person, a person with abnormally low intelligence, a fool",
         "partOfSpeech": "noun",
         "synonyms": [],
         "antonyms": [],
         "examples": []
     },
-    "Immaculate": {
+    "immaculate": {
         "definition": "Completely clean or tidy, free from flaws or mistakes",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -22,7 +22,7 @@
         "examples": []
     },
 
-    "Improvise": {
+    "improvise": {
         "definition": "To compose and perform without preparation, make from whatever is available",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -30,7 +30,7 @@
         "examples": []
     },
 
-    "Impudent": {
+    "impudent": {
         "definition": "Not showing proper respect, shamelessly bold",
         "partOfSpeech": "adjective",
         "synonyms": [],

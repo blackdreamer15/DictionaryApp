@@ -1,5 +1,5 @@
 {
-    "Humane": {
+    "humane": {
         "definition": "Restrain oneself from doing or enjoying something",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Humbug": {
+    "humbug": {
         "definition": "False or misleading talk or behavior trick",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Humility": {
+    "humility": {
         "definition": "The quality of being humble",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
 
-    "Hurl": {
+    "hurl": {
         "definition": "Throw with great force",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Hype": {
+    "hype": {
         "definition": "Informal-excessive or exaggerated publicity, publicize in an excessive way",
         "partOfSpeech": "",
         "synonyms": [],

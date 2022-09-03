@@ -1,5 +1,5 @@
 {
-    "Wallow": {
+    "wallow": {
         "definition": "Indulge in",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Wally": {
+    "wally": {
         "definition": "Informal-a silly person",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Waltz": {
+    "waltz": {
         "definition": "Move or act casually",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
     
-    "Wan": {
+    "wan": {
         "definition": "Pale and appearing ill",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Wane": {
+    "wane": {
         "definition": "Become weaker- on the wane",
         "partOfSpeech": "verb",
         "synonyms": [],

@@ -1,5 +1,5 @@
 {
-    "Premonition": {
+    "premonition": {
         "definition": "A feeling that something is about to happen",
         "partOfSpeech": "",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Preposterous": {
+    "preposterous": {
         "definition": "Completely ridiculous and outrageous",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Probity": {
+    "probity": {
         "definition": "Honesty, integrity",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
     
-    "Procrastinate": {
+    "procrastinate": {
         "definition": "Postpone action",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Promulgation": {
+    "promulgation": {
         "definition": "Make widely known, to make known officially",
         "partOfSpeech": "verb",
         "synonyms": [],
