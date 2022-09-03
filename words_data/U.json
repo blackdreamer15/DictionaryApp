@@ -1,0 +1,41 @@
+{
+    "underling": {
+        "definition": "A subordinate",
+        "partOfSpeech": "noun",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "underrate": {
+        "definition": "Underestimate",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "undertake": {
+        "definition": "Formally promise, begin an activity",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+    
+    "uppity": {
+        "definition": "Informal-self important",
+        "partOfSpeech": "adjective",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "uproarious": {
+        "definition": "Very noisy, very funny",
+        "partOfSpeech": "adjective",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    }
+}

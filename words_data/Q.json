@@ -1,0 +1,41 @@
+{
+    "quell": {
+        "definition": "Suppress",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "quench": {
+        "definition": "Satisfy thirst, put out a fire",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "querulous": {
+        "definition": "Complaining petulantly",
+        "partOfSpeech": "adjective",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+    
+    "quake": {
+        "definition": "Shake or tremble",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "qualm": {
+        "definition": "Feeling of doubt about one's actions, uneasiness",
+        "partOfSpeech": "noun",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    }
+}

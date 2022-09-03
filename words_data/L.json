@@ -1,0 +1,41 @@
+{
+    "legible": {
+        "definition": "Clear enough to read",
+        "partOfSpeech": "adjective",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "linger": {
+        "definition": "Be slow or reluctant to leave, spend a long time",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "languish": {
+        "definition": "Become weak or feeble, be forced to remain in an unpleasant place",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "loathe": {
+        "definition": "Feel hatred and disgust for",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "leverage": {
+        "definition": "The power of influence",
+        "partOfSpeech": "noun",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    }
+}

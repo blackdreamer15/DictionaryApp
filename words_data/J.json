@@ -1,0 +1,41 @@
+{
+    "jargon": {
+        "definition": "Words used by a particular group and hard for others to understand",
+        "partOfSpeech": "noun",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "jaunty": {
+        "definition": "Lively and self confident",
+        "partOfSpeech": "adjective",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "jeer": {
+        "definition": "Make rude mocking remarks at",
+        "partOfSpeech": "verb",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "jeopardy": {
+        "definition": "Great danger or risk",
+        "partOfSpeech": "noun",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    },
+
+    "jest": {
+        "definition": "Joke, verb-speak in a joking way",
+        "partOfSpeech": "noun",
+        "synonyms": [],
+        "antonyms": [],
+        "examples": []
+    }
+}
