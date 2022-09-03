@@ -27,8 +27,19 @@ class Dictionary():
         if word in dictionary_data:
             word_info = dictionary_data[word]
             word_meaning = word_info["definition"]
-            print(word_meaning)
+            part_of_speech = word_info['partOfSpeech']
+            word_synonyms = ", ".join(word_info['synonyms'])
+            word_antonyms = ", ".join(word_info['antonyms'])
+            word_examples = "\n".join(word_info['examples'])
+
+            print(f"Definition: {word_meaning}")
+            print(f"Part of speech: {part_of_speech}")
+            print(f"Synonyms: {word_synonyms}")
+            print(f"Antonyms: {word_antonyms}")
+            print(f"Examples: \n{word_examples}")
 
 
 dic = Dictionary()
-first_word = dic.search_word('abstain')
+
+word = input("Enter the word you wanna search for: ")
+dic.search_word(word)
