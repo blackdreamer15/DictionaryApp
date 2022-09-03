@@ -1,5 +1,5 @@
 {
-    "Zany": {
+    "zany": {
         "definition": "Amusingly unconventional",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Zap": {
+    "zap": {
         "definition": "Informal-destroy, move rapidly",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Zenith": {
+    "zenith": {
         "definition": "The highest point",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
     
-    "Zoom": {
+    "zoom": {
         "definition": "Move very quickly",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Zest": {
+    "zest": {
         "definition": "Great enthusiasm and energy",
         "partOfSpeech": "noun",
         "synonyms": [],

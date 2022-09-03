@@ -1,5 +1,5 @@
 {
-    "Obliterate": {
+    "obliterate": {
         "definition": "Destroy or cover completely, to blot out, erase",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Oblivious": {
+    "oblivious": {
         "definition": "Unaware",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Obloquy": {
+    "obloquy": {
         "definition": "Strong public criticism, disgrace",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
     
-    "Obsess": {
+    "obsess": {
         "definition": "Preoccupy to a disturbing extent",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Obsolete": {
+    "obsolete": {
         "definition": "No longer produced or used, out of date",
         "partOfSpeech": "adjective",
         "synonyms": [],

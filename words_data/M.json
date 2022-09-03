@@ -1,5 +1,5 @@
 {
-    "Malice": {
+    "malice": {
         "definition": "The desire to harm someone",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Meek": {
+    "meek": {
         "definition": "Quiet, gentle and obedient",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
     
-    "Meticulous": {
+    "meticulous": {
         "definition": "Careful and precise",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
 
-    "Myth": {
+    "myth": {
         "definition": "An imaginary person or thing",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Mandatory": {
+    "mandatory": {
         "definition": "Compulsory",
         "partOfSpeech": "adjective",
         "synonyms": [],

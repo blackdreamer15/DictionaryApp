@@ -1,5 +1,5 @@
 {
-    "Yap": {
+    "yap": {
         "definition": "Bark shrilly",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Yearn": {
+    "yearn": {
         "definition": "Feel great longing",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Yell": {
+    "yell": {
         "definition": "A loud sharp cry or call",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
     
-    "Yelp": {
+    "yelp": {
         "definition": "A short sharp cry",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Yield": {
+    "yield": {
         "definition": "Give way to demands or pressure, give up possession of",
         "partOfSpeech": "verb",
         "synonyms": [],

@@ -1,5 +1,5 @@
 {
-    "Scorn": {
+    "scorn": {
         "definition": "Open contempt or disdain",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Scot-free": {
+    "scot-free": {
         "definition": "Without punishment or injury",
         "partOfSpeech": "adverb",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Scour": {
+    "scour": {
         "definition": "Clean by rubbing with something rough, search thoroughly",
         "partOfSpeech": "verb",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
     
-    "Scruple": {
+    "scruple": {
         "definition": "A feeling of doubt as to whether an action in morally right",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Scrutinize": {
+    "scrutinize": {
         "definition": "Examine carefully",
         "partOfSpeech": "verb",
         "synonyms": [],

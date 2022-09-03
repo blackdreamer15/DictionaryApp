@@ -1,5 +1,5 @@
 {
-    "Retort": {
+    "retort": {
         "definition": "Make a sharp or witty reply",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -7,7 +7,7 @@
         "examples": []
     },
 
-    "Risible": {
+    "risible": {
         "definition": "Causing laughter, funny",
         "partOfSpeech": "adjective",
         "synonyms": [],
@@ -15,7 +15,7 @@
         "examples": []
     },
 
-    "Rider": {
+    "rider": {
         "definition": "An additional condition or statement",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -23,7 +23,7 @@
         "examples": []
     },
     
-    "Rift": {
+    "rift": {
         "definition": "A crack, split or break; a serious break in friendly relations",
         "partOfSpeech": "noun",
         "synonyms": [],
@@ -31,7 +31,7 @@
         "examples": []
     },
 
-    "Rigmarole": {
+    "rigmarole": {
         "definition": "A long complicated procedure",
         "partOfSpeech": "noun",
         "synonyms": [],
