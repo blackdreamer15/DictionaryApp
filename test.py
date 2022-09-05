@@ -11,7 +11,7 @@ headers = {
 }
 
 
-class Dictionary():
+class DictionaryAPI():
 
     def __init__(self, word=""):
         self.word = word
@@ -46,5 +46,5 @@ class Dictionary():
             pass
 
 
-dic = Dictionary()
+dic = DictionaryAPI()
 dic.fetch_data(word)
