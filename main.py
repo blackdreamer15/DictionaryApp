@@ -37,7 +37,8 @@ class Dictionary():
             print(f"Synonyms: {word_synonyms}")
             print(f"Antonyms: {word_antonyms}")
             print(f"Examples: \n{word_examples}")
-
+        else:
+            from dictionary_api import DictionaryAPI
 
 dic = Dictionary()
 
