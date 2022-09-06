@@ -1,10 +1,8 @@
 from tkinter import *
 from tkinter import ttk
-from dictionary_api import DictionaryAPI
 from dictionary_json import DictionaryJSON
 
 dict_json = DictionaryJSON()
-# TODO: Replace words.csv with your filename
 
 
 class DictionaryApp(Tk):
@@ -55,12 +53,12 @@ class HomePage(Frame):
         homeCanvas.pack(fill='both', expand=True)
         homeCanvas.create_image(0, 0, image=new_image, anchor='nw')
         homeCanvas.create_text(
-            300, 40, text="\n\nDictionaryApp", font=("stellar", 55, "bold"))
+            300, 40, text="\n\nPyDictionary", font=("Roboto", 55, "bold"))
 
-        homeCanvas.create_text(300, 230, text="Enter Word",
-                               font=("stellar", 20, "bold"))
+        homeCanvas.create_text(175, 230, text="Enter a word",
+                               font=("Roboto", 12, "bold"))
         search_box = ttk.Entry(self, font=(
-            "Helvetico", 16), textvariable=self.controller.dictionary_data['word'])
+            "Roboto", 12), textvariable=self.controller.dictionary_data['word'])
         search_box.place(x=130, y=250, width=370, height=40)
 
         search_image = PhotoImage(file="search.png")
@@ -86,9 +84,8 @@ class MeaningPage(Frame):
         self.meaningCanvas.pack(fill='both', expand=True)
         self.meaningCanvas.create_image(0, 0, image=new_image, anchor='nw')
         self.bind("<<show_frame>>", self.update_frame)
-        # self.meaning = Text(self, font=("Verdana", 8), bd=0)
 
-        back_button = Button(self, text="Back", font=("Times_New_Roman", 15), bd=1, relief=GROOVE,
+        back_button = Button(self, text="Back", font=("Roboto", 15), bd=1, relief=GROOVE,
                              command=self.back_button, bg="light blue")
         back_button.place(x=300, y=540)
 
@@ -101,23 +98,23 @@ class MeaningPage(Frame):
         word = value['word'].get()
         word_data = dict_json.search_word(word)
         if type(word_data) is dict:
-            self.meaning = Text(self, font=("arial", 12), bd=1)
+            self.meaning = Text(self, font=("Roboto", 12), bd=1)
             word_meaning = word_data["definition"]
             part_of_speech = word_data['partOfSpeech']
             try:
                 word_synonyms = ", ".join(word_data['synonyms'])
             except:
-                word_synonyms= " "
-            try :
+                word_synonyms = " "
+            try:
                 word_data['antonyms']
                 word_antonyms = ", ".join(word_data['antonyms'])
             except:
-                word_antonyms= " "
+                word_antonyms = " "
             try:
                 word_data['examples']
-                word_examples = "\n\n     ".join(word_data['examples'])
+                word_examples = "\n".join(word_data['examples'])
             except:
-                word_examples= " "
+                word_examples = " "
             self.meaning.insert('end', word.title() + '\n')
             self.meaning.insert('end', '(' + part_of_speech.title() + ')\n\n')
             self.meaning.insert('end', 'Definition:\n')
@@ -132,7 +129,7 @@ class MeaningPage(Frame):
                 self.meaning.insert('end', word_antonyms + '\n\n')
             if word_examples:
                 self.meaning.insert('end', 'Example(s):\n')
-                self.meaning.insert('end', '     '+word_examples)
+                self.meaning.insert('end', ''+word_examples)
             self.meaning.config(state="disabled")
 
             self.meaning.tag_add('word', '1.0', '1.end')
@@ -141,23 +138,23 @@ class MeaningPage(Frame):
             self.meaning.tag_add('title', '7.0', '7.end')
             self.meaning.tag_add('title', '10.0', '10.end')
             self.meaning.tag_add('title', '13.0', '13.end')
-            self.meaning.tag_config('word', font='arial 20 bold')
-            self.meaning.tag_config('function', foreground='blue')
-            self.meaning.tag_config('title', foreground='blue', font='Verdana 12 bold')
-            # self.meaning.tag_config('title1', font='arial 20 bold', foreground= "blue")
+            self.meaning.tag_config('word', font='Roboto 20 bold')
+            self.meaning.tag_config('function', foreground='red')
+            self.meaning.tag_config(
+                'title', foreground='blue', font='Roboto 12 bold')
             self.meaning.place(x=65, y=35, width=500, height=500)
         else:
-            self.meaning = Text(self, font=("arial", 12), bd=1)
+            self.meaning = Text(self, font=("Roboto", 12), bd=1)
             self.meaning.insert('end', '\n'+word_data)
             self.meaning.tag_add('caution', '1.0', '3.end')
-            self.meaning.tag_config('caution', foreground='red', font='Verdana 12 bold')
-            # self.meaning.tag_add('caution', '2.0', '2.end')
-            self.meaning.place(x=65, y=35, width=500, height=500 )
+            self.meaning.tag_config(
+                'caution', foreground='red', font='Roboto 12 bold')
+            self.meaning.place(x=15, y=35, width=600, height=500)
 
 
 if __name__ == '__main__':
     app = DictionaryApp()
     app.geometry("626x626+100+30")
     app.resizable(False, False)
-    app.title("Group 2 Dictionary")
+    app.title("Group II Dictionary")
     app.mainloop()
