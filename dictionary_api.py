@@ -30,30 +30,4 @@ class DictionaryAPI():
         return word_info
 
 
-""" word_meaning = word_info["definition"]
-        part_of_speech = word_info['partOfSpeech']
-        
 
-        # print(f"Definition: {word_meaning}")
-        # print(f"Part of speech: {part_of_speech}")
-        # print(f"Synonyms: {word_synonyms}")
-
-        try:
-            word_synonyms = ", ".join(word_info['synonyms'])
-            print(f"Synonyms: {word_synonyms}")
-
-        except:
-            pass
-
-        try:
-            word_antonyms = ", ".join(word_info['antonyms'])
-            print(f"Antonyms: {word_antonyms}")
-        except:
-            pass
-        
-        try:
-            word_examples = "\n".join(word_info['examples'])
-            print(f"Examples: \n{word_examples}")
-
-        except:
-            pass """
