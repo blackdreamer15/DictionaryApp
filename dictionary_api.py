@@ -19,6 +19,7 @@ class DictionaryAPI():
             response = requests.request("GET", url, headers=headers)
             if response.status_code == 200:
                 data = json.loads(response.text)
+                # print("\n"+data)
                 word_info = data['results'][0]
             elif response.status_code == 404:
                 word_info = "NO MATCHING WORD WAS FOUND \n INVALID INPUT"

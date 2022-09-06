@@ -104,9 +104,20 @@ class MeaningPage(Frame):
             self.meaning = Text(self, font=("arial", 12), bd=1)
             word_meaning = word_data["definition"]
             part_of_speech = word_data['partOfSpeech']
-            word_synonyms = ", ".join(word_data['synonyms'])
-            word_antonyms = ", ".join(word_data['antonyms'])
-            word_examples = "\n\n     ".join(word_data['examples'])
+            try:
+                word_synonyms = ", ".join(word_data['synonyms'])
+            except:
+                word_synonyms= " "
+            try :
+                word_data['antonyms']
+                word_antonyms = ", ".join(word_data['antonyms'])
+            except:
+                word_antonyms= " "
+            try:
+                word_data['examples']
+                word_examples = "\n\n     ".join(word_data['examples'])
+            except:
+                word_examples= " "
             self.meaning.insert('end', word.title() + '\n')
             self.meaning.insert('end', '(' + part_of_speech.title() + ')\n\n')
             self.meaning.insert('end', 'Definition:\n')
@@ -132,14 +143,16 @@ class MeaningPage(Frame):
             self.meaning.tag_add('title', '13.0', '13.end')
             self.meaning.tag_config('word', font='arial 20 bold')
             self.meaning.tag_config('function', foreground='blue')
-            self.meaning.tag_config(
-                'title', foreground='blue', font='Verdana 12 bold')
+            self.meaning.tag_config('title', foreground='blue', font='Verdana 12 bold')
             # self.meaning.tag_config('title1', font='arial 20 bold', foreground= "blue")
             self.meaning.place(x=65, y=35, width=500, height=500)
         else:
-            self.meaning.destroy()
-            self.meaningCanvas.create_text(
-                300, 250, text=word_data, font=('Helvetica', 16, 'bold'), fill="red")
+            self.meaning = Text(self, font=("arial", 12), bd=1)
+            self.meaning.insert('end', '\n'+word_data)
+            self.meaning.tag_add('caution', '1.0', '3.end')
+            self.meaning.tag_config('caution', foreground='red', font='Verdana 12 bold')
+            # self.meaning.tag_add('caution', '2.0', '2.end')
+            self.meaning.place(x=65, y=35, width=500, height=500 )
 
 
 if __name__ == '__main__':
