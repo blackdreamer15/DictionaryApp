@@ -1,9 +1,6 @@
 import json
 import time
 from difflib import get_close_matches
-from dictionary_api import DictionaryAPI
-
-dict_api = DictionaryAPI()
 
 
 class DictionaryJSON():
@@ -24,7 +21,7 @@ class DictionaryJSON():
                 word_info = dictionary_data[word]
                 time.sleep(1)
             else:
-                word_info= dict_api.fetch_data(word)
+                word_info = "NO MATCHING WORD WAS FOUND \n INVALID INPUT"
         else:
             try:
                 with open(directory) as dir:
