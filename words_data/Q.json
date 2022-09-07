@@ -1,41 +1,5694 @@
 {
-    "quell": {
-        "definition": "Suppress",
-        "partOfSpeech": "verb",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "quench": {
-        "definition": "Satisfy thirst, put out a fire",
-        "partOfSpeech": "verb",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "querulous": {
-        "definition": "Complaining petulantly",
-        "partOfSpeech": "adjective",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-    
-    "quake": {
-        "definition": "Shake or tremble",
-        "partOfSpeech": "verb",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "qualm": {
-        "definition": "Feeling of doubt about one's actions, uneasiness",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    }
+"q": {
+"definition": "the 17th letter of the Roman alphabet",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": []
+},
+"qabbala": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Kabala",
+"Cabbalah",
+"Cabala",
+"Kabbala",
+"Qabbalah"
+]
+},
+"qabbalah": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Kabala",
+"Cabbalah",
+"Cabala",
+"Kabbala",
+"Qabbalah"
+]
+},
+"qaddafi": {
+"definition": "Libyan leader who seized power in a military coup d'etat in 1969; deposed the Libyan monarchy and imposed socialism and Islamic orthodoxy on the country (born in 1942)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Qadhafi",
+"Khadafy",
+"Muammar el-qaddafi",
+"Gaddafi",
+"Muammar al-qaddafi"
+]
+},
+"qadi": {
+"definition": "an Islamic judge",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Qadi"
+]
+},
+"qat": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"African tea",
+"Khat",
+"Kat",
+"Arabian tea",
+"Cat"
+]
+},
+"qatar": {
+"definition": "an Arab country on the peninsula of Qatar; achieved independence from the United Kingdom in 1971; the economy is dominated by oil",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Katar peninsula",
+"State of qatar",
+"Katar",
+"Qatar peninsula",
+"State of katar"
+]
+},
+"qats": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"African tea",
+"Khat",
+"Kat",
+"Arabian tea",
+"Cat"
+]
+},
+"qed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quantum electrodynamics",
+"Qed"
+]
+},
+"qibla": {
+"definition": "the direction of the Kaaba toward which Muslims turn for their daily prayers",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Qibla"
+]
+},
+"qindarka": {
+"definition": "100 qindarka equal 1 lek in Albania",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Qindarka",
+"Qintar"
+]
+},
+"qintar": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Qindarka",
+"Qintar"
+]
+},
+"qintars": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Qindarka",
+"Qintar"
+]
+},
+"qis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Chi",
+"Qi",
+"Ki",
+"Ch'i"
+]
+},
+"qoph": {
+"definition": "the 19th letter of the Hebrew alphabet",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Qoph"
+]
+},
+"qophs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Qoph"
+]
+},
+"qs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Q"
+]
+},
+"qss": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Q"
+]
+},
+"quaalude": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Methaqualone",
+"Quaalude"
+]
+},
+"quaaludes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Methaqualone",
+"Quaalude"
+]
+},
+"quack": {
+"definition": "medically unqualified",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quack"
+]
+},
+"quacked": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quack"
+]
+},
+"quackery": {
+"definition": "medical practice and advice based on observation and experience in ignorance of scientific findings",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quackery",
+"Empiricism",
+"Charlatanism"
+]
+},
+"quackeries": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quackery",
+"Empiricism",
+"Charlatanism"
+]
+},
+"quacking": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quack"
+]
+},
+"quack-quack": {
+"definition": "child's word for a duck",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quack-quack"
+]
+},
+"quacks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quack"
+]
+},
+"quad": {
+"definition": "(printing) a block of type without a raised letter; used for spacing between words or sentences",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Musculus quadriceps femoris",
+"Space",
+"Quadruplet",
+"Quadrangle",
+"Quadriceps"
+]
+},
+"quadragesima": {
+"definition": "the first Sunday in Lent",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadragesima",
+"Quadrigesima sunday"
+]
+},
+"quadrangle": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrangle",
+"Quadrilateral",
+"Tetragon",
+"Quad"
+]
+},
+"quadrangles": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrangle",
+"Quadrilateral",
+"Tetragon",
+"Quad"
+]
+},
+"quadrangular": {
+"definition": "of or relating to or shaped like a quadrangle",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quadrangular"
+]
+},
+"quadrant": {
+"definition": "a quarter of the circumference of a circle",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadrant",
+"Quarter-circle"
+]
+},
+"quadrants": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrant",
+"Quarter-circle"
+]
+},
+"quadraphonic": {
+"definition": "of or relating to quadraphony",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quadrasonic",
+"Quadriphonic",
+"Quadrisonic",
+"Quadraphonic"
+]
+},
+"quadrate": {
+"definition": "having four sides and four angles",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quadrate"
+]
+},
+"quadrates": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrate"
+]
+},
+"quadratic": {
+"definition": "of or relating to or resembling a square",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quadratic equation",
+"Quadratic polynomial",
+"Quadratic"
+]
+},
+"quadratics": {
+"definition": "a branch of algebra dealing with quadratic equations",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadratic",
+"Quadratic equation",
+"Quadratic polynomial",
+"Quadratics"
+]
+},
+"quadrature": {
+"definition": "the construction of a square having the same area as some other figure",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadrature"
+]
+},
+"quadratures": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrature"
+]
+},
+"quadrennia": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrennium"
+]
+},
+"quadrennium": {
+"definition": "a period of four years",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadrennium"
+]
+},
+"quadrenniums": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrennium"
+]
+},
+"quadriceps": {
+"definition": "a muscle of the thigh that extends the leg",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quad",
+"Quadriceps",
+"Quadriceps femoris",
+"Musculus quadriceps femoris"
+]
+},
+"quadricepses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quad",
+"Quadriceps",
+"Quadriceps femoris",
+"Musculus quadriceps femoris"
+]
+},
+"quadrics": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadric",
+"Quadric surface"
+]
+},
+"quadrilateral": {
+"definition": "having four sides",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Four-sided",
+"Quadrangle",
+"Quadrilateral",
+"Tetragon"
+]
+},
+"quadrilaterals": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrangle",
+"Quadrilateral",
+"Tetragon"
+]
+},
+"quadrille": {
+"definition": "music for dancing the quadrille",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadrille"
+]
+},
+"quadrilles": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrille"
+]
+},
+"quadrillion": {
+"definition": "the number that is represented as a one followed by 24 zeros",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadrillion"
+]
+},
+"quadrillions": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrillion"
+]
+},
+"quadrillionth": {
+"definition": "the ordinal number of one quadrillion in counting order",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"One-quadrillionth",
+"Quadrillionth"
+]
+},
+"quadrillionths": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"One-quadrillionth",
+"Quadrillionth"
+]
+},
+"quadripartite": {
+"definition": "involving four parties",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Four-party",
+"Quadripartite"
+]
+},
+"quadriphonic": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadrasonic",
+"Quadriphonic",
+"Quadrisonic",
+"Quadraphonic"
+]
+},
+"quadriplegia": {
+"definition": "paralysis of both arms and both legs",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadriplegia"
+]
+},
+"quadriplegic": {
+"definition": "a person who is paralyzed in both arms and both legs",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadriplegic"
+]
+},
+"quadric": {
+"definition": "a curve or surface whose equation (in Cartesian coordinates) is of the second degree",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadric",
+"Quadric surface"
+]
+},
+"quadrivium": {
+"definition": "(Middle Ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadrivium"
+]
+},
+"quadroon": {
+"definition": "an offspring of a mulatto and a white parent; a person who is one-quarter black",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadroon"
+]
+},
+"quadroons": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadroon"
+]
+},
+"quadrumvirate": {
+"definition": "a group of four men",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadrumvirate"
+]
+},
+"quadruped": {
+"definition": "an animal especially a mammal having four limbs specialized for walking",
+"partOfSpeech": "Noun",
+"antonyms": [
+"biped",
+"bipedal"
+],
+"synonyms": [
+"Quadrupedal",
+"Four-footed",
+"Quadruped"
+]
+},
+"quadrupedal": {
+"definition": "having four feet",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"biped",
+"bipedal"
+],
+"synonyms": [
+"Quadrupedal",
+"Four-footed",
+"Quadruped"
+]
+},
+"quadrupeds": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadruped"
+]
+},
+"quadruple": {
+"definition": "having four units or components",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Four-fold",
+"Fourfold",
+"Quartette",
+"Quadruplet",
+"Quadruple"
+]
+},
+"quadrupled": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadruple"
+]
+},
+"quadruples": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadruplet",
+"Quartette",
+"Quadruple",
+"Quartet"
+]
+},
+"quadruplet": {
+"definition": "one of four children born at the same time from the same pregnancy",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quaternion",
+"Foursome",
+"Quartette",
+"4",
+"Four"
+]
+},
+"quadruplets": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaternion",
+"Foursome",
+"Quartette",
+"4",
+"Four"
+]
+},
+"quadruplex": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Four-fold",
+"Fourfold",
+"Quadruple",
+"Quadruplicate",
+"Quadruplex"
+]
+},
+"quadruplicate": {
+"definition": "reproduce fourfold",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Four-fold",
+"Fourfold",
+"Quadruple",
+"Quadruplicate",
+"Quadruplex"
+]
+},
+"quadruplicated": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadruplicate"
+]
+},
+"quadruplicates": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadruplicate"
+]
+},
+"quadruplicating": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quadruplicate"
+]
+},
+"quadrupling": {
+"definition": "increase by a factor of four",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quadrupling",
+"Quadruple"
+]
+},
+"quads": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Musculus quadriceps femoris",
+"Space",
+"Quadruplet",
+"Quadrangle",
+"Quadriceps"
+]
+},
+"quaestor": {
+"definition": "any of several public officials of ancient Rome (usually in charge of finance and administration)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quaestor"
+]
+},
+"quaestors": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaestor"
+]
+},
+"quaff": {
+"definition": "a hearty draft",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Swig",
+"Quaff",
+"Gulp"
+]
+},
+"quaffed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Swig",
+"Quaff",
+"Gulp"
+]
+},
+"quaffer": {
+"definition": "a person who drinks heartily",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quaffer"
+]
+},
+"quaffers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaffer"
+]
+},
+"quaffing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Swig",
+"Quaff",
+"Gulp"
+]
+},
+"quaffs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Swig",
+"Quaff",
+"Gulp"
+]
+},
+"quag": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Morass",
+"Slack",
+"Mire",
+"Quag",
+"Quagmire"
+]
+},
+"quagga": {
+"definition": "mammal of South Africa that resembled a zebra; extinct since late 19th century",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Equus quagga",
+"Quagga"
+]
+},
+"quaggas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Equus quagga",
+"Quagga"
+]
+},
+"quaggy": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Sloppy",
+"Sloughy",
+"Muddy",
+"Miry",
+"Swampy"
+]
+},
+"quaggier": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Sloppy",
+"Sloughy",
+"Muddy",
+"Miry",
+"Swampy"
+]
+},
+"quaggiest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Sloppy",
+"Sloughy",
+"Muddy",
+"Miry",
+"Swampy"
+]
+},
+"quagmire": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Morass",
+"Slack",
+"Mire",
+"Quag",
+"Quagmire"
+]
+},
+"quagmires": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Morass",
+"Slack",
+"Mire",
+"Quag",
+"Quagmire"
+]
+},
+"quags": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Morass",
+"Slack",
+"Mire",
+"Quag",
+"Quagmire"
+]
+},
+"quahaug": {
+"definition": "Atlantic coast round clams with hard shells; large clams usually used for chowders or other clam dishes",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Venus mercenaria",
+"Quahog",
+"Quahaug",
+"Round clam",
+"Mercenaria mercenaria"
+]
+},
+"quahaugs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Venus mercenaria",
+"Quahog",
+"Quahaug",
+"Round clam",
+"Mercenaria mercenaria"
+]
+},
+"quahog": {
+"definition": "an edible American clam; the heavy shells were used as money by some American Indians",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Venus mercenaria",
+"Quahog",
+"Quahaug",
+"Round clam",
+"Mercenaria mercenaria"
+]
+},
+"quahogs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Venus mercenaria",
+"Quahog",
+"Quahaug",
+"Round clam",
+"Mercenaria mercenaria"
+]
+},
+"quay": {
+"definition": "wharf usually built parallel to the shoreline",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quay"
+]
+},
+"quayage": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quayage",
+"Wharfage"
+]
+},
+"quayages": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quayage",
+"Wharfage"
+]
+},
+"quail": {
+"definition": "flesh of quail; suitable for roasting or broiling if young; otherwise must be braised",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Squinch",
+"Funk",
+"Recoil",
+"Shrink",
+"Quail"
+]
+},
+"quailed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Squinch",
+"Funk",
+"Recoil",
+"Shrink",
+"Quail"
+]
+},
+"quailing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Squinch",
+"Funk",
+"Recoil",
+"Shrink",
+"Quail"
+]
+},
+"quails": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Squinch",
+"Funk",
+"Recoil",
+"Shrink",
+"Quail"
+]
+},
+"quaint": {
+"definition": "strange in an interesting or pleasing way",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Olde worlde",
+"Quaint",
+"Old-time"
+]
+},
+"quainter": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Olde worlde",
+"Quaint",
+"Old-time"
+]
+},
+"quaintest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Olde worlde",
+"Quaint",
+"Old-time"
+]
+},
+"quaintly": {
+"definition": "in a strange but not unpleasant manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Quaintly"
+]
+},
+"quaintness": {
+"definition": "the quality of being quaint and old-fashioned; its quaintness was appealing\"",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quaintness"
+]
+},
+"quaintnesses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaintness"
+]
+},
+"quays": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quay"
+]
+},
+"quake": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quake",
+"Quiver",
+"Temblor",
+"Seism",
+"Palpitate"
+]
+},
+"quaked": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quake",
+"Tremor",
+"Palpitate",
+"Quiver"
+]
+},
+"quaker": {
+"definition": "one who quakes and trembles with (or as with) fear",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quaker",
+"Friend",
+"Trembler"
+]
+},
+"quakerism": {
+"definition": "the theological doctrine of the Society of Friends characterized by opposition to war and rejection of ritual and a formal creed and an ordained ministry",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quakerism"
+]
+},
+"quakers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaker",
+"Friend",
+"Society of friends",
+"Trembler",
+"Religious society of friends"
+]
+},
+"quakes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quake",
+"Quiver",
+"Temblor",
+"Seism",
+"Palpitate"
+]
+},
+"quaking": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quake",
+"Tremor",
+"Palpitate",
+"Quiver"
+]
+},
+"qualify": {
+"definition": "prove capable or fit; meet requirements",
+"partOfSpeech": "Verb",
+"antonyms": [
+"disqualify"
+],
+"synonyms": [
+"Modify",
+"Qualify",
+"Characterize",
+"Stipulate",
+"Dispose"
+]
+},
+"qualification": {
+"definition": "an attribute that must be met or complied with and that fits a person for something",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Making",
+"Reservation",
+"Qualification"
+]
+},
+"qualifications": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Making",
+"Reservation",
+"Qualification"
+]
+},
+"qualified": {
+"definition": "meeting the proper standards and requirements and training for an office or position or task",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"unqualified",
+"disqualify"
+],
+"synonyms": [
+"Dependent",
+"Modify",
+"Qualify",
+"Characterize",
+"Restricted"
+]
+},
+"qualifier": {
+"definition": "a contestant who meets certain requirements and so qualifies to take part in the next stage of competition",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Qualifier",
+"Modifier"
+]
+},
+"qualifiers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Qualifier",
+"Modifier"
+]
+},
+"qualifies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"disqualify"
+],
+"synonyms": [
+"Modify",
+"Qualify",
+"Characterize",
+"Stipulate",
+"Dispose"
+]
+},
+"qualifying": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"disqualify",
+"failing"
+],
+"synonyms": [
+"Qualifying",
+"Qualify",
+"Pass",
+"Characterize",
+"Modify"
+]
+},
+"qualitative": {
+"definition": "involving distinctions based on qualities",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"quantitative"
+],
+"synonyms": [
+"Qualitative"
+]
+},
+"qualitatively": {
+"definition": "in a qualitative manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Qualitatively"
+]
+},
+"quality": {
+"definition": "an essential and distinguishing attribute of something or someone",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Select",
+"Timbre",
+"Quality",
+"Tone",
+"Prime"
+]
+},
+"qualities": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Timbre",
+"Quality",
+"Tone",
+"Timber",
+"Character"
+]
+},
+"qualm": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Qualm",
+"Squeamishness",
+"Misgiving",
+"Scruple",
+"Queasiness"
+]
+},
+"qualms": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Qualm",
+"Squeamishness",
+"Misgiving",
+"Scruple",
+"Queasiness"
+]
+},
+"quamash": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Camash",
+"Camas",
+"Quamash",
+"Camosh",
+"Camass"
+]
+},
+"quamashes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Camash",
+"Camas",
+"Quamash",
+"Camosh",
+"Camass"
+]
+},
+"quandang": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quandang",
+"Quandong tree",
+"Quandong",
+"Quantong",
+"Fusanus acuminatus"
+]
+},
+"quandangs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quandang",
+"Quandong tree",
+"Quandong",
+"Quantong",
+"Fusanus acuminatus"
+]
+},
+"quandary": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Predicament",
+"Quandary",
+"Plight",
+"Dilemma"
+]
+},
+"quandaries": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Predicament",
+"Quandary",
+"Plight",
+"Dilemma"
+]
+},
+"quandong": {
+"definition": "Australian tree with edible flesh and edible nutlike seed",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Blue fig",
+"Quandang",
+"Quandong tree",
+"Quandong",
+"Silver quandong tree"
+]
+},
+"quandongs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Blue fig",
+"Quandang",
+"Quandong tree",
+"Quandong",
+"Silver quandong tree"
+]
+},
+"quango": {
+"definition": "a quasi nongovernmental organization; an organization that is financed by the government yet acts independently of the government",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quasi-ngo",
+"Quango"
+]
+},
+"quangos": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quasi-ngo",
+"Quango"
+]
+},
+"quanta": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quantum"
+]
+},
+"quantal": {
+"definition": "of or relating to a quantum or capable of existing in only one of two states",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quantal",
+"Quantized"
+]
+},
+"quantic": {
+"definition": "a homogeneous polynomial having at least two variables",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quantic"
+]
+},
+"quantics": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quantic"
+]
+},
+"quantify": {
+"definition": "use as a quantifier",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Measure",
+"Quantify"
+]
+},
+"quantifiability": {
+"definition": "the quality of being measurable",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Measurability",
+"Quantifiability"
+]
+},
+"quantifiable": {
+"definition": "capable of being quantified",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quantifiable"
+]
+},
+"quantification": {
+"definition": "a limitation imposed on the variables of a proposition (as by the quantifiers `some' or `all' or `no')",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quantification"
+]
+},
+"quantifications": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quantification"
+]
+},
+"quantified": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Measure",
+"Quantify"
+]
+},
+"quantifier": {
+"definition": "(logic) a word (such as `some' or `all' or `no') that binds the variables in a logical proposition",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quantifier",
+"Logical quantifier"
+]
+},
+"quantifiers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quantifier",
+"Logical quantifier"
+]
+},
+"quantifies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Measure",
+"Quantify"
+]
+},
+"quantifying": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Measure",
+"Quantify"
+]
+},
+"quantitative": {
+"definition": "expressible as a quantity or relating to or susceptible of measurement",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"syllabic",
+"qualitative"
+],
+"synonyms": [
+"Quantitative"
+]
+},
+"quantitatively": {
+"definition": "in a quantitative manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Quantitatively"
+]
+},
+"quantity": {
+"definition": "an adequate or large amount",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Measure",
+"Quantity",
+"Amount"
+]
+},
+"quantities": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Measure",
+"Quantity",
+"Amount"
+]
+},
+"quantization": {
+"definition": "the act of dividing into quanta or expressing in terms of quantum theory",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quantisation",
+"Quantization"
+]
+},
+"quantize": {
+"definition": "approximate (a signal varying continuously in amplitude) by one whose amplitude is restricted to a prescribed set of discrete values",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Quantize",
+"Quantise"
+]
+},
+"quantized": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quantal",
+"Quantize",
+"Quantise",
+"Quantized"
+]
+},
+"quantizes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quantize",
+"Quantise"
+]
+},
+"quantizing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quantize",
+"Quantise"
+]
+},
+"quantong": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Native peach",
+"Quandang",
+"Quantong",
+"Quandong"
+]
+},
+"quantongs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Native peach",
+"Quandang",
+"Quantong",
+"Quandong"
+]
+},
+"quantum": {
+"definition": "a discrete amount of something that is analogous to the quantities in quantum theory",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quantum"
+]
+},
+"quapaw": {
+"definition": "a member of the Siouan people of the Arkansas river valley in Arkansas",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quapaw"
+]
+},
+"quarantine": {
+"definition": "place into enforced isolation, as for medical reasons",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Quarantine"
+]
+},
+"quarantined": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarantine",
+"Quarantined",
+"Isolated"
+]
+},
+"quarantines": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarantine"
+]
+},
+"quarantining": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarantine"
+]
+},
+"quark": {
+"definition": "(physics) hypothetical truly fundamental particle in mesons and baryons; there are supposed to be six flavors of quarks (and their antiquarks), which come in pairs; each has an electric charge of +2/3 or -1/3",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quark",
+"Quark cheese"
+]
+},
+"quarks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quark",
+"Quark cheese"
+]
+},
+"quarrel": {
+"definition": "have a disagreement over something",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Words",
+"Wrangle",
+"Scrap",
+"Row",
+"Run-in"
+]
+},
+"quarreled": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Scrap",
+"Dispute",
+"Altercate",
+"Argufy",
+"Quarrel"
+]
+},
+"quarreler": {
+"definition": "a disputant who quarrels",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quarreller",
+"Quarreler"
+]
+},
+"quarrelers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarreller",
+"Quarreler"
+]
+},
+"quarreling": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Scrap",
+"Dispute",
+"Altercate",
+"Argufy",
+"Quarrel"
+]
+},
+"quarrelled": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Scrap",
+"Dispute",
+"Altercate",
+"Argufy",
+"Quarrel"
+]
+},
+"quarreller": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarreller",
+"Quarreler"
+]
+},
+"quarrellers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarreller",
+"Quarreler"
+]
+},
+"quarrelling": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Scrap",
+"Dispute",
+"Altercate",
+"Argufy",
+"Quarrel"
+]
+},
+"quarrels": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Words",
+"Wrangle",
+"Scrap",
+"Row",
+"Run-in"
+]
+},
+"quarrelsome": {
+"definition": "given to quarreling",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quarrelsome"
+]
+},
+"quarrelsomeness": {
+"definition": "an inclination to be quarrelsome and contentious",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quarrelsomeness",
+"Contentiousness"
+]
+},
+"quarry": {
+"definition": "extract (something such as stones) from or as if from a quarry",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Stone pit",
+"Fair game",
+"Target",
+"Quarry",
+"Prey"
+]
+},
+"quarried": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarry"
+]
+},
+"quarrier": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarryman",
+"Quarrier"
+]
+},
+"quarriers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarryman",
+"Quarrier"
+]
+},
+"quarries": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Stone pit",
+"Fair game",
+"Target",
+"Quarry",
+"Prey"
+]
+},
+"quarrying": {
+"definition": "the extraction of building stone or slate from an open surface quarry",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quarry",
+"Quarrying"
+]
+},
+"quarryman": {
+"definition": "a man who works in a quarry",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quarryman",
+"Quarrier"
+]
+},
+"quarrymen": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarryman",
+"Quarrier"
+]
+},
+"quart": {
+"definition": "a United States liquid unit equal to 32 fluid ounces; four quarts equal one gallon",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quart",
+"Dry quart"
+]
+},
+"quartan": {
+"definition": "occurring every fourth day (especially the fever and weakness of malaria)",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quartan"
+]
+},
+"quartans": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quartan"
+]
+},
+"quarter": {
+"definition": "provide housing for (military personnel)",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Fourth part",
+"Poop",
+"Quarter",
+"One-fourth",
+"Fourth"
+]
+},
+"quarterback": {
+"definition": "play the quarterback",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Quarterback",
+"Signal caller",
+"Field general"
+]
+},
+"quarterbacked": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarterback"
+]
+},
+"quarterbacking": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarterback"
+]
+},
+"quarterbacks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarterback",
+"Signal caller",
+"Field general"
+]
+},
+"quarterdeck": {
+"definition": "the stern area of a ship's upper deck",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quarterdeck"
+]
+},
+"quarterdecks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarterdeck"
+]
+},
+"quartered": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarter",
+"Draw",
+"Draw and quarter",
+"Billet",
+"Canton"
+]
+},
+"quarterfinal": {
+"definition": "one of the four competitions in an elimination tournament whose winners go on to play in the semifinals",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quarterfinal"
+]
+},
+"quarter-hour": {
+"definition": "a quarter of an hour",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"15 minutes",
+"Quarter-hour"
+]
+},
+"quartering": {
+"definition": "a coat of arms that occupies one quarter of an escutcheon; combining four coats of arms on one shield usually represented intermarriages",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quarter",
+"Draw",
+"Quartering",
+"Draw and quarter",
+"Billet"
+]
+},
+"quarterings": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarter",
+"Draw",
+"Quartering",
+"Draw and quarter",
+"Billet"
+]
+},
+"quarterly": {
+"definition": "in diagonally opposed quarters of an escutcheon",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Every quarter",
+"Quarterly"
+]
+},
+"quarterlies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarterly"
+]
+},
+"quarterlight": {
+"definition": "car window consisting of a small pivoted glass vent in the door of a car",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quarterlight"
+]
+},
+"quartermaster": {
+"definition": "an army officer who provides clothing and subsistence for troops",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quartermaster"
+]
+},
+"quartermasters": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quartermaster"
+]
+},
+"quartern": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Fourth part",
+"Quarter",
+"One-fourth",
+"Fourth",
+"Twenty-five percent"
+]
+},
+"quarterns": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Fourth part",
+"Quarter",
+"One-fourth",
+"Fourth",
+"Twenty-five percent"
+]
+},
+"quarters": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Fourth part",
+"Poop",
+"Living quarters",
+"Quarter",
+"One-fourth"
+]
+},
+"quarterstaff": {
+"definition": "a long stout staff used as a weapon",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quarterstaff"
+]
+},
+"quarterstaves": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quarterstaff"
+]
+},
+"quarter-vine": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cross vine",
+"Quartervine",
+"Bignonia capreolata",
+"Trumpet flower",
+"Quarter-vine"
+]
+},
+"quartet": {
+"definition": "four performers or singers who perform together",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quaternion",
+"Foursome",
+"Quartette",
+"4",
+"Four"
+]
+},
+"quartets": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaternion",
+"Foursome",
+"Quartette",
+"4",
+"Four"
+]
+},
+"quartette": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quartette",
+"Quadruplet",
+"Quadruple",
+"Quartet",
+"Foursome"
+]
+},
+"quartic": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Biquadratic",
+"Fourth power",
+"Quartic",
+"Biquadrate"
+]
+},
+"quartics": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Biquadratic",
+"Fourth power",
+"Quartic",
+"Biquadrate"
+]
+},
+"quartile": {
+"definition": "(statistics) any of three points that divide an ordered distribution into four parts each containing one quarter of the scores",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quartile"
+]
+},
+"quartiles": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quartile"
+]
+},
+"quarto": {
+"definition": "the size of a book whose pages are made by folding a sheet of paper twice to form four leaves",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"4to",
+"Quarto"
+]
+},
+"quartos": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"4to",
+"Quarto"
+]
+},
+"quarts": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quart",
+"Dry quart"
+]
+},
+"quartz": {
+"definition": "a hard glossy mineral consisting of silicon dioxide in crystal form; present in most rocks (especially sandstone and granite); yellow sand is quartz with iron oxide impurities",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Lechatelierite",
+"Vitreous silica",
+"Quartz glass",
+"Quartz",
+"Crystal"
+]
+},
+"quartzes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Lechatelierite",
+"Vitreous silica",
+"Quartz glass",
+"Quartz",
+"Crystal"
+]
+},
+"quartzite": {
+"definition": "hard metamorphic rock consisting essentially of interlocking quartz crystals",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quartzite"
+]
+},
+"quartzose": {
+"definition": "relating to or made of quartz",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quartzose"
+]
+},
+"quasar": {
+"definition": "a starlike object that may send out radio waves and other forms of energy; many have large red shifts",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quasi-stellar radio source",
+"Quasar"
+]
+},
+"quasars": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quasi-stellar radio source",
+"Quasar"
+]
+},
+"quash": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"validate"
+],
+"synonyms": [
+"Avoid",
+"Quash",
+"Reduce",
+"Subjugate",
+"Subdue"
+]
+},
+"quashed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"validate"
+],
+"synonyms": [
+"Avoid",
+"Quash",
+"Reduce",
+"Subjugate",
+"Subdue"
+]
+},
+"quashes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"validate"
+],
+"synonyms": [
+"Avoid",
+"Quash",
+"Reduce",
+"Subjugate",
+"Subdue"
+]
+},
+"quashing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"validate"
+],
+"synonyms": [
+"Avoid",
+"Quash",
+"Reduce",
+"Subjugate",
+"Subdue"
+]
+},
+"quasi": {
+"definition": "having some resemblance",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quasi"
+]
+},
+"quasiparticle": {
+"definition": "a quantum of energy (in a crystal lattice or other system) that has position and momentum and can in some respects be regarded as a particle",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quasiparticle"
+]
+},
+"quasi-religious": {
+"definition": "resembling something that is religious",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quasi-religious"
+]
+},
+"quasi-royal": {
+"definition": "having the power but not the rank or title of a king",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quasi-royal"
+]
+},
+"quassia": {
+"definition": "a bitter compound used as an insecticide and tonic and vermifuge; extracted from the wood and bark of trees of the genera Quassia and Picrasma",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Bitterwood",
+"Quassia",
+"Quassia amara"
+]
+},
+"quassias": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Bitterwood",
+"Quassia",
+"Quassia amara"
+]
+},
+"quat": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"African tea",
+"Khat",
+"Kat",
+"Arabian tea",
+"Cat"
+]
+},
+"quatercentenary": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quatercentennial",
+"Quatercentenary"
+]
+},
+"quatern": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaternion",
+"Foursome",
+"4",
+"Four",
+"Iv"
+]
+},
+"quaternary": {
+"definition": "last 2 million years",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"4th",
+"Quaternion",
+"Foursome",
+"Quaternate",
+"Fourth"
+]
+},
+"quaternaries": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaternion",
+"Foursome",
+"4",
+"Four",
+"Iv"
+]
+},
+"quaternate": {
+"definition": "consisting of or especially arranged in sets of four",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quaternary",
+"Quaternate"
+]
+},
+"quaternion": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaternion",
+"Foursome",
+"4",
+"Four",
+"Iv"
+]
+},
+"quaternity": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaternion",
+"Foursome",
+"4",
+"Four",
+"Iv"
+]
+},
+"quaternities": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quaternion",
+"Foursome",
+"4",
+"Four",
+"Iv"
+]
+},
+"quatrain": {
+"definition": "a stanza of four lines",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quatrain"
+]
+},
+"quatrains": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quatrain"
+]
+},
+"quattrocento": {
+"definition": "the 15th century in Italian art and literature",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quattrocento"
+]
+},
+"quaver": {
+"definition": "give off unsteady sounds, alternating in amplitude or frequency",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Trill",
+"Waver",
+"Quaver",
+"Warble",
+"Eighth note"
+]
+},
+"quavered": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Trill",
+"Waver",
+"Quaver",
+"Warble"
+]
+},
+"quavering": {
+"definition": "(of the voice) quivering as from weakness or fear",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Trill",
+"Quavering",
+"Waver",
+"Quaver",
+"Warble"
+]
+},
+"quaveringly": {
+"definition": "in an unsteady quavering manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Quaveringly"
+]
+},
+"quavers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Trill",
+"Waver",
+"Quaver",
+"Warble",
+"Eighth note"
+]
+},
+"queasy": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Queasy",
+"Offensive",
+"Nauseous",
+"Unquiet",
+"Noisome"
+]
+},
+"queasier": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Queasy",
+"Offensive",
+"Nauseous",
+"Unquiet",
+"Noisome"
+]
+},
+"queasiest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Queasy",
+"Offensive",
+"Nauseous",
+"Unquiet",
+"Noisome"
+]
+},
+"queasily": {
+"definition": "in a queasy manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Queasily"
+]
+},
+"queasiness": {
+"definition": "a mild state of nausea",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Qualm",
+"Restlessness",
+"Uneasiness",
+"Squeamishness",
+"Queasiness"
+]
+},
+"queasinesses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Qualm",
+"Restlessness",
+"Uneasiness",
+"Squeamishness",
+"Queasiness"
+]
+},
+"quebec": {
+"definition": "the French-speaking capital of the province of Quebec; situated on the Saint Lawrence River",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quebec",
+"Quebec city"
+]
+},
+"quebecois": {
+"definition": "of or relating to Quebec (especially to the French speaking inhabitants or their culture)",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quebecois"
+]
+},
+"quechua": {
+"definition": "a member of a South American Indian people in Peru who were formerly the ruling class of the Inca empire",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quechuan",
+"Kechuan",
+"Kechua",
+"Quechua",
+"Quechuan language"
+]
+},
+"quechuan": {
+"definition": "of or relating to the Quechua or their language",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quechuan",
+"Kechuan",
+"Quechuan language",
+"Kechua",
+"Quechua"
+]
+},
+"quechuas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quechuan",
+"Kechuan",
+"Kechua",
+"Quechua",
+"Quechuan language"
+]
+},
+"queen": {
+"definition": "promote to a queen, as of a pawn in chess",
+"partOfSpeech": "Verb",
+"antonyms": [
+"king",
+"male_monarch"
+],
+"synonyms": [
+"Pouf",
+"Queen regnant",
+"World-beater",
+"Fag",
+"Tabby"
+]
+},
+"queened": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Queen"
+]
+},
+"queenfish": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Queenfish",
+"Seriphus politus",
+"White croaker"
+]
+},
+"queenfishes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Queenfish",
+"Seriphus politus",
+"White croaker"
+]
+},
+"queening": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Queen"
+]
+},
+"queenly": {
+"definition": "having the rank of or resembling or befitting a queen",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Queenly",
+"Queenlike"
+]
+},
+"queenlier": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Queenly",
+"Queenlike"
+]
+},
+"queenliest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Queenly",
+"Queenlike"
+]
+},
+"queenlike": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Queenly",
+"Queenlike"
+]
+},
+"queens": {
+"definition": "a borough of New York City",
+"partOfSpeech": "Noun",
+"antonyms": [
+"king",
+"male_monarch"
+],
+"synonyms": [
+"Pouf",
+"Queen regnant",
+"World-beater",
+"Fag",
+"Tabby"
+]
+},
+"queensland": {
+"definition": "a state in northeastern Australia",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Queensland"
+]
+},
+"queer": {
+"definition": "put in a dangerous, disadvantageous, or difficult position",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Pouf",
+"Homophile",
+"Endanger",
+"Expose",
+"Peculiar"
+]
+},
+"queered": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cross",
+"Endanger",
+"Expose",
+"Queer",
+"Scupper"
+]
+},
+"queerer": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Homophile",
+"Curious",
+"Queer",
+"Peculiar",
+"Gay"
+]
+},
+"queerest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Homophile",
+"Curious",
+"Queer",
+"Peculiar",
+"Gay"
+]
+},
+"queering": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cross",
+"Endanger",
+"Expose",
+"Queer",
+"Scupper"
+]
+},
+"queerly": {
+"definition": "in a strange manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Fishily",
+"Funnily",
+"Strangely",
+"Oddly",
+"Queerly"
+]
+},
+"queerness": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Oddity",
+"Crotchet",
+"Homosexuality",
+"Gayness",
+"Quirkiness"
+]
+},
+"queernesses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Oddity",
+"Crotchet",
+"Homosexuality",
+"Gayness",
+"Quirkiness"
+]
+},
+"queers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Pouf",
+"Endanger",
+"Expose",
+"Thwart",
+"Poove"
+]
+},
+"quell": {
+"definition": "overcome or allay",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Squelch",
+"Appease",
+"Quell",
+"Quench",
+"Stay"
+]
+},
+"quelled": {
+"definition": "subdued or overcome",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Squelch",
+"Appease",
+"Quenched",
+"Quell",
+"Squelched"
+]
+},
+"quelling": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Stifling",
+"Suppression",
+"Squelch",
+"Crushing",
+"Appease"
+]
+},
+"quells": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Squelch",
+"Appease",
+"Quell",
+"Quench",
+"Stay"
+]
+},
+"quellung": {
+"definition": "the swelling of the capsule surrounding a microorganism after reaction with an antibody; the basis of certain tests for identifying microorganisms",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quellung",
+"Quellung reaction"
+]
+},
+"quench": {
+"definition": "satisfy (thirst)",
+"partOfSpeech": "Verb",
+"antonyms": [
+"ignite"
+],
+"synonyms": [
+"Allay",
+"Blow out",
+"Squelch",
+"Assuage",
+"Extinguish"
+]
+},
+"quenched": {
+"definition": "allayed",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"ignite"
+],
+"synonyms": [
+"Allay",
+"Blow out",
+"Squelch",
+"Quenched",
+"Assuage"
+]
+},
+"quenches": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"ignite"
+],
+"synonyms": [
+"Allay",
+"Blow out",
+"Squelch",
+"Assuage",
+"Extinguish"
+]
+},
+"quenching": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"ignite"
+],
+"synonyms": [
+"Allay",
+"Blow out",
+"Squelch",
+"Assuage",
+"Extinguish"
+]
+},
+"quenchless": {
+"definition": "impossible to quench",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Unquenchable",
+"Quenchless"
+]
+},
+"quercitron": {
+"definition": "a yellow dye made from the bark of the quercitron oak tree",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quercitron",
+"Black oak",
+"Yellow oak",
+"Quercitron oak",
+"Quercus velutina"
+]
+},
+"quercus": {
+"definition": "oaks",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quercus",
+"Genus quercus"
+]
+},
+"query": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"answer"
+],
+"synonyms": [
+"Interrogation",
+"Inquiry",
+"Query",
+"Question",
+"Enquiry"
+]
+},
+"queried": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Query",
+"Question"
+]
+},
+"querier": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Querier",
+"Inquirer",
+"Questioner",
+"Enquirer",
+"Asker"
+]
+},
+"queriers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Querier",
+"Inquirer",
+"Questioner",
+"Enquirer",
+"Asker"
+]
+},
+"queries": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"answer"
+],
+"synonyms": [
+"Interrogation",
+"Inquiry",
+"Query",
+"Question",
+"Enquiry"
+]
+},
+"querying": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Query",
+"Question"
+]
+},
+"quern": {
+"definition": "a primitive stone mill for grinding corn by hand",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quern"
+]
+},
+"querns": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quern"
+]
+},
+"querulous": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Whiney",
+"Whiny",
+"Fretful",
+"Querulous"
+]
+},
+"querulously": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Querulously",
+"Fractiously",
+"Peevishly"
+]
+},
+"querulousness": {
+"definition": "the quality of being given to complaining",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Querulousness"
+]
+},
+"querulousnesses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Querulousness"
+]
+},
+"quest": {
+"definition": "make a search (for)",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Bespeak",
+"Pursuance",
+"Call for",
+"Request",
+"Bay"
+]
+},
+"quested": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Bespeak",
+"Call for",
+"Request",
+"Bay",
+"Quest"
+]
+},
+"quester": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Searcher",
+"Quester",
+"Seeker"
+]
+},
+"questers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Searcher",
+"Quester",
+"Seeker"
+]
+},
+"questing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Bespeak",
+"Call for",
+"Request",
+"Bay",
+"Quest"
+]
+},
+"question": {
+"definition": "challenge the accuracy, probity, or propriety of",
+"partOfSpeech": "Verb",
+"antonyms": [
+"answer"
+],
+"synonyms": [
+"Doubt",
+"Interrogation",
+"Inquiry",
+"Interrogative",
+"Interrogative sentence"
+]
+},
+"questionable": {
+"definition": "subject to question",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"unquestionable"
+],
+"synonyms": [
+"Refutable",
+"Confutable",
+"Confutative",
+"Questionable"
+]
+},
+"questionably": {
+"definition": "in a questionable and dubious manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Questionably",
+"Dubiously"
+]
+},
+"questioned": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Interview",
+"Query",
+"Oppugn",
+"Wonder",
+"Interrogate"
+]
+},
+"questioner": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Querier",
+"Inquirer",
+"Questioner",
+"Enquirer",
+"Asker"
+]
+},
+"questioners": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Querier",
+"Inquirer",
+"Questioner",
+"Enquirer",
+"Asker"
+]
+},
+"questioning": {
+"definition": "perplexed (as if being expected to know something that you do not know)",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Inquiring",
+"Speculative",
+"Quizzical",
+"Inquisitive",
+"Wondering"
+]
+},
+"questioningly": {
+"definition": "in a curious and questioning manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Questioningly",
+"Wonderingly",
+"Quizzically"
+]
+},
+"questionings": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Inquiring",
+"Interview",
+"Query",
+"Oppugn",
+"Wonder"
+]
+},
+"questionnaire": {
+"definition": "a form containing a set of questions; submitted to people to gain statistical information",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Questionnaire"
+]
+},
+"questionnaires": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Questionnaire"
+]
+},
+"questions": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"answer"
+],
+"synonyms": [
+"Doubt",
+"Interrogation",
+"Inquiry",
+"Interrogative",
+"Interrogative sentence"
+]
+},
+"quests": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Bespeak",
+"Pursuance",
+"Call for",
+"Request",
+"Bay"
+]
+},
+"quetch": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"cheer"
+],
+"synonyms": [
+"Plain",
+"Quetch",
+"Kvetch",
+"Complain",
+"Sound off"
+]
+},
+"quetzal": {
+"definition": "the basic unit of money in Guatemala; equal to 100 centavos",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quetzal",
+"Quetzal bird"
+]
+},
+"quetzalcoatl": {
+"definition": "an Aztec deity represented as a plumed serpent",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quetzalcoatl"
+]
+},
+"quetzals": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quetzal",
+"Quetzal bird"
+]
+},
+"queue": {
+"definition": "a line of people or vehicles waiting for something",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Line up",
+"Queue up",
+"Queue",
+"Waiting line"
+]
+},
+"queued": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Line up",
+"Queue up",
+"Queue"
+]
+},
+"queueing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Line up",
+"Queue up",
+"Queue"
+]
+},
+"queues": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Line up",
+"Queue up",
+"Queue",
+"Waiting line"
+]
+},
+"queuing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Line up",
+"Queue up",
+"Queue"
+]
+},
+"quiaquia": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cigarfish",
+"Round scad",
+"Decapterus punctatus",
+"Quiaquia"
+]
+},
+"quibble": {
+"definition": "evade the truth of a point or question by raising irrelevant objections",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Quiddity",
+"Niggle",
+"Quibble",
+"Squabble",
+"Cavil"
+]
+},
+"quibbled": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Niggle",
+"Quibble",
+"Squabble",
+"Bicker",
+"Pettifog"
+]
+},
+"quibbler": {
+"definition": "a disputant who quibbles; someone who raises annoying petty objections",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Pettifogger",
+"Caviler",
+"Quibbler",
+"Caviller"
+]
+},
+"quibblers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Pettifogger",
+"Caviler",
+"Quibbler",
+"Caviller"
+]
+},
+"quibbles": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quiddity",
+"Niggle",
+"Quibble",
+"Squabble",
+"Cavil"
+]
+},
+"quibbling": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Niggle",
+"Quibble",
+"Squabble",
+"Bicker",
+"Pettifog"
+]
+},
+"quiche": {
+"definition": "a member of the Mayan people of south central Guatemala",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quiche"
+]
+},
+"quiches": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quiche"
+]
+},
+"quick": {
+"definition": "accomplished rapidly and without delay",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Ready",
+"Agile",
+"Quick",
+"Speedy",
+"Prompt"
+]
+},
+"quick-change": {
+"definition": "adept at changing from one thing to another especially changing costumes",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quick-change"
+]
+},
+"quick-eared": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Sharp-eared",
+"Quick-eared"
+]
+},
+"quicken": {
+"definition": "give life or energy to",
+"partOfSpeech": "Verb",
+"antonyms": [
+"decelerate"
+],
+"synonyms": [
+"Animate",
+"Speed",
+"Quicken",
+"Invigorate",
+"Recreate"
+]
+},
+"quickened": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"decelerate"
+],
+"synonyms": [
+"Animate",
+"Speed",
+"Quicken",
+"Invigorate",
+"Recreate"
+]
+},
+"quickener": {
+"definition": "an agent that gives or restores life or vigor",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Enlivener",
+"Quickener",
+"Invigorator"
+]
+},
+"quickening": {
+"definition": "the process of showing signs of life",
+"partOfSpeech": "Noun",
+"antonyms": [
+"decelerate",
+"deceleration"
+],
+"synonyms": [
+"Quickening",
+"Animate",
+"Speed",
+"Quicken",
+"Invigorate"
+]
+},
+"quickens": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"decelerate"
+],
+"synonyms": [
+"Animate",
+"Speed",
+"Quicken",
+"Invigorate",
+"Recreate"
+]
+},
+"quicker": {
+"definition": "more quickly",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Ready",
+"Agile",
+"Quick",
+"Speedy",
+"Prompt"
+]
+},
+"quickest": {
+"definition": "most quickly",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Ready",
+"Agile",
+"Quickest",
+"Fastest",
+"Quick"
+]
+},
+"quick-freeze": {
+"definition": "freeze rapidly so as to preserve the natural juices and flavors",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Quick-freeze",
+"Flash-freeze"
+]
+},
+"quick-freezing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quick-freeze",
+"Flash-freeze"
+]
+},
+"quick-froze": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quick-freeze",
+"Flash-freeze"
+]
+},
+"quick-frozen": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Flash-frozen",
+"Quick-frozen",
+"Frozen",
+"Quick-freeze",
+"Flash-freeze"
+]
+},
+"quickie": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quick fix",
+"Quicky",
+"Quickie",
+"Band aid"
+]
+},
+"quickies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quick fix",
+"Quicky",
+"Quickie",
+"Band aid"
+]
+},
+"quickly": {
+"definition": "with rapid movements",
+"partOfSpeech": "Adverb",
+"antonyms": [
+"slowly"
+],
+"synonyms": [
+"Chop-chop",
+"Quick",
+"Speedily",
+"Rapidly",
+"Apace"
+]
+},
+"quicklime": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Calx",
+"Calcined lime",
+"Unslaked lime",
+"Fluxing lime",
+"Calcium oxide"
+]
+},
+"quickness": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Mental quickness",
+"Rapidness",
+"Deftness",
+"Quickness",
+"Rapidity"
+]
+},
+"quicknesses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Mental quickness",
+"Rapidness",
+"Deftness",
+"Quickness",
+"Rapidity"
+]
+},
+"quicks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quick"
+]
+},
+"quicksand": {
+"definition": "a treacherous situation that tends to entrap and destroy",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quicksand"
+]
+},
+"quicksands": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quicksand"
+]
+},
+"quickset": {
+"definition": "grown from cuttings planted directly in the ground",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quickset"
+]
+},
+"quicksets": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quickset"
+]
+},
+"quick-sighted": {
+"definition": "keenly perceptive or alert",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Sharp-sighted",
+"Sharp-eyed",
+"Lynx-eyed",
+"Hawk-eyed",
+"Keen-sighted"
+]
+},
+"quicksilver": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Hg",
+"Erratic",
+"Mercurial",
+"Hydrargyrum",
+"Fickle"
+]
+},
+"quicksilvers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Hg",
+"Hydrargyrum",
+"Mercury",
+"Atomic number 80",
+"Quicksilver"
+]
+},
+"quickstep": {
+"definition": "perform a quickstep",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Quickstep"
+]
+},
+"quicksteps": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quickstep"
+]
+},
+"quick-tempered": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Hotheaded",
+"Hot-tempered",
+"Irascible",
+"Choleric",
+"Quick-tempered"
+]
+},
+"quick-witted": {
+"definition": "mentally nimble and resourceful",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quick-witted"
+]
+},
+"quick-wittedness": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quickness",
+"Mental quickness",
+"Quick-wittedness"
+]
+},
+"quid": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"British pound sterling",
+"Pound",
+"British pound",
+"Quid",
+"Quid pro quo"
+]
+},
+"quiddity": {
+"definition": "the essence that makes something the kind of thing it is and makes it different from any other",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Haecceity",
+"Cavil",
+"Quiddity",
+"Quibble"
+]
+},
+"quiddities": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Haecceity",
+"Cavil",
+"Quiddity",
+"Quibble"
+]
+},
+"quidnunc": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Nosy-parker",
+"Nosey-parker",
+"Quidnunc",
+"Busybody"
+]
+},
+"quidnuncs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Nosy-parker",
+"Nosey-parker",
+"Quidnunc",
+"Busybody"
+]
+},
+"quids": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"British pound sterling",
+"Pound",
+"British pound",
+"Quid",
+"Quid pro quo"
+]
+},
+"quiesce": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"louden"
+],
+"synonyms": [
+"Quiet down",
+"Quiesce",
+"Pipe down",
+"Quieten",
+"Quiet"
+]
+},
+"quiesced": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"louden"
+],
+"synonyms": [
+"Quiet down",
+"Quiesce",
+"Pipe down",
+"Quieten",
+"Quiet"
+]
+},
+"quiescence": {
+"definition": "quiet and inactive restfulness",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quiescency",
+"Quiescence",
+"Dormancy",
+"Sleeping"
+]
+},
+"quiescences": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quiescency",
+"Quiescence",
+"Dormancy",
+"Sleeping"
+]
+},
+"quiescency": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quiescency",
+"Quiescence",
+"Dormancy",
+"Sleeping"
+]
+},
+"quiescent": {
+"definition": "not active or activated",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quiescent"
+]
+},
+"quiescing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"louden"
+],
+"synonyms": [
+"Quiet down",
+"Quiesce",
+"Pipe down",
+"Quieten",
+"Quiet"
+]
+},
+"quiet": {
+"definition": "characterized by an absence or near absence of agitation or activity",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"agitate",
+"louden",
+"unquiet",
+"unquietly",
+"noisy"
+],
+"synonyms": [
+"Quiet down",
+"Calm down",
+"Subdued",
+"Placidity",
+"Quieten"
+]
+},
+"quieted": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"louden",
+"agitate"
+],
+"synonyms": [
+"Quiet down",
+"Tranquillise",
+"Tranquilize",
+"Tranquillize",
+"Calm down"
+]
+},
+"quieten": {
+"definition": "become quiet or quieter",
+"partOfSpeech": "Verb",
+"antonyms": [
+"louden",
+"agitate"
+],
+"synonyms": [
+"Quiet down",
+"Tranquillise",
+"Tranquilize",
+"Tranquillize",
+"Calm down"
+]
+},
+"quietened": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"louden",
+"agitate"
+],
+"synonyms": [
+"Quiet down",
+"Tranquillise",
+"Tranquilize",
+"Tranquillize",
+"Calm down"
+]
+},
+"quietening": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"louden",
+"agitate"
+],
+"synonyms": [
+"Quiet down",
+"Tranquillise",
+"Tranquilize",
+"Tranquillize",
+"Calm down"
+]
+},
+"quietens": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"louden",
+"agitate"
+],
+"synonyms": [
+"Quiet down",
+"Tranquillise",
+"Tranquilize",
+"Tranquillize",
+"Calm down"
+]
+},
+"quieter": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unquiet",
+"noisy",
+"active"
+],
+"synonyms": [
+"Muted",
+"Placid",
+"Subdued",
+"Still",
+"Smooth"
+]
+},
+"quietest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unquiet",
+"noisy",
+"active"
+],
+"synonyms": [
+"Muted",
+"Placid",
+"Subdued",
+"Still",
+"Smooth"
+]
+},
+"quieting": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"louden",
+"agitate"
+],
+"synonyms": [
+"Quiet down",
+"Tranquillise",
+"Tranquilize",
+"Tranquillize",
+"Calm down"
+]
+},
+"quietism": {
+"definition": "a form of religious mysticism requiring withdrawal from all human effort and passive contemplation of God",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quietism"
+]
+},
+"quietisms": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quietism"
+]
+},
+"quietist": {
+"definition": "a religious mystic who follows quietism",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quietist"
+]
+},
+"quietists": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quietist"
+]
+},
+"quietly": {
+"definition": "with little or no sound",
+"partOfSpeech": "Adverb",
+"antonyms": [
+"unquietly",
+"noisily",
+"loudly"
+],
+"synonyms": [
+"Quietly",
+"Restfully",
+"Softly",
+"Quiet"
+]
+},
+"quietness": {
+"definition": "the property of making no sound",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Soundlessness",
+"Tranquillity",
+"Quietude",
+"Tranquility",
+"Quietness"
+]
+},
+"quietnesses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Soundlessness",
+"Tranquillity",
+"Quietude",
+"Tranquility",
+"Quietness"
+]
+},
+"quiets": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"louden",
+"sound",
+"agitate"
+],
+"synonyms": [
+"Quiet down",
+"Calm down",
+"Placidity",
+"Quieten",
+"Lull"
+]
+},
+"quietude": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quietude",
+"Quietness",
+"Tranquillity",
+"Tranquility"
+]
+},
+"quietudes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quietude",
+"Quietness",
+"Tranquillity",
+"Tranquility"
+]
+},
+"quietus": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quietus",
+"Sleep",
+"Eternal rest",
+"Rest",
+"Eternal sleep"
+]
+},
+"quietuses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quietus",
+"Sleep",
+"Eternal rest",
+"Rest",
+"Eternal sleep"
+]
+},
+"quiff": {
+"definition": "a prominent forelock (especially one brushed upward from the forehead)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quiff"
+]
+},
+"quiffs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quiff"
+]
+},
+"quill": {
+"definition": "pen made from a bird's feather",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Pinion",
+"Quill",
+"Shaft",
+"Quill feather",
+"Quill pen"
+]
+},
+"quills": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Pinion",
+"Quill",
+"Shaft",
+"Quill feather",
+"Quill pen"
+]
+},
+"quillwort": {
+"definition": "any of several spore-bearing aquatic or marsh plants having short rhizomes and leaves resembling quills; worldwide except Polynesia",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quillwort"
+]
+},
+"quilt": {
+"definition": "stitch or sew together",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Comfort",
+"Quilt",
+"Comforter",
+"Puff"
+]
+},
+"quilted": {
+"definition": "made of layers of fabric held together by patterned stitching",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quilt",
+"Quilted"
+]
+},
+"quilting": {
+"definition": "stitching through layers of fabric and a filling so as to create a design",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quilting",
+"Quilt"
+]
+},
+"quiltings": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quilting",
+"Quilt"
+]
+},
+"quilts": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Comfort",
+"Quilt",
+"Comforter",
+"Puff"
+]
+},
+"quin": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quintuplet",
+"Quint",
+"Quin"
+]
+},
+"quinacrine": {
+"definition": "a drug (trade name Atabrine) used to treat certain worm infestations and once used to treat malaria",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Mepacrine",
+"Quinacrine",
+"Quinacrine hydrochloride",
+"Atabrine"
+]
+},
+"quince": {
+"definition": "small Asian tree with pinkish flowers and pear-shaped fruit; widely cultivated",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quince bush",
+"Cydonia oblonga",
+"Quince"
+]
+},
+"quincentenary": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quincentennial",
+"Quincentenary"
+]
+},
+"quincentennial": {
+"definition": "of or relating to a 500th anniversary",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quincentennial",
+"Quincentenary"
+]
+},
+"quinces": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quince bush",
+"Cydonia oblonga",
+"Quince"
+]
+},
+"quincy": {
+"definition": "American patriot who presented the colonists' grievances to the English king (1744-1775)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quincy",
+"Josiah quincy"
+]
+},
+"quincies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quincy",
+"Josiah quincy"
+]
+},
+"quinidine": {
+"definition": "cardiac drug (trade names Quinidex and Quinora) used to treat certain heart arrhythmias",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quinora",
+"Quinidine",
+"Quinidex"
+]
+},
+"quinine": {
+"definition": "a bitter alkaloid extracted from chinchona bark; used in malaria therapy",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quinine"
+]
+},
+"quinines": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quinine"
+]
+},
+"quinone": {
+"definition": "any of a class of aromatic yellow compounds including several that are biologically important as coenzymes or acceptors or vitamins; used in making dyes",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quinone",
+"Benzoquinone"
+]
+},
+"quinones": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quinone",
+"Benzoquinone"
+]
+},
+"quinquagesima": {
+"definition": "the Sunday before Ash Wednesday (the beginning of Lent)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quinquagesima sunday",
+"Quinquagesima"
+]
+},
+"quinquefoliate": {
+"definition": "(of a leaf shape) having five leaflets",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quinquefoliate"
+]
+},
+"quinquennia": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quinquennium"
+]
+},
+"quinquennium": {
+"definition": "a period of five years",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quinquennium"
+]
+},
+"quinquenniums": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quinquennium"
+]
+},
+"quins": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quintuplet",
+"Quint",
+"Quin"
+]
+},
+"quinsy": {
+"definition": "a painful pus filled inflammation of the tonsils and surrounding tissues; usually a complication of tonsillitis",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quinsy",
+"Peritonsillar abscess"
+]
+},
+"quinsies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quinsy",
+"Peritonsillar abscess"
+]
+},
+"quint": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cinque",
+"Quintuplet",
+"Quint",
+"Quintet",
+"Pentad"
+]
+},
+"quintal": {
+"definition": "a unit of weight equal to 100 kilograms",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Short hundredweight",
+"Cwt",
+"Centner",
+"Cental",
+"Hundredweight"
+]
+},
+"quintals": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Short hundredweight",
+"Cwt",
+"Centner",
+"Cental",
+"Hundredweight"
+]
+},
+"quintessence": {
+"definition": "the fifth and highest element after air and earth and fire and water; was believed to be the substance composing all heavenly bodies",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Ether",
+"Quintessence"
+]
+},
+"quintessences": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ether",
+"Quintessence"
+]
+},
+"quintessential": {
+"definition": "representing the perfect example of a class or quality",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quintessential"
+]
+},
+"quintet": {
+"definition": "a musical composition for five performers",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Cinque",
+"Quintuplet",
+"Quintet",
+"Quintette",
+"Quint"
+]
+},
+"quintets": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cinque",
+"Quintuplet",
+"Quintet",
+"Quintette",
+"Quint"
+]
+},
+"quintette": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quintuplet",
+"Quintet",
+"Quintette",
+"Fivesome",
+"Quintuple"
+]
+},
+"quintillion": {
+"definition": "the number that is represented as a one followed by 18 zeros",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quintillion"
+]
+},
+"quintillions": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quintillion"
+]
+},
+"quintillionth": {
+"definition": "the ordinal number of one quintillion in counting order",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quintillionth",
+"One-quintillionth"
+]
+},
+"quintillionths": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quintillionth",
+"One-quintillionth"
+]
+},
+"quints": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cinque",
+"Quintuplet",
+"Quint",
+"Quintet",
+"Pentad"
+]
+},
+"quintuple": {
+"definition": "having five units or components",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Quintuplet",
+"Quintet",
+"Quintette",
+"Fivefold",
+"Quintuple"
+]
+},
+"quintupled": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quintuple"
+]
+},
+"quintuples": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quintuplet",
+"Quintet",
+"Quintuple",
+"Quintette"
+]
+},
+"quintuplet": {
+"definition": "one of five children born at the same time from the same pregnancy",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Cinque",
+"Quintuplet",
+"Quint",
+"Quintet",
+"Pentad"
+]
+},
+"quintuplets": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cinque",
+"Quintuplet",
+"Quint",
+"Quintet",
+"Pentad"
+]
+},
+"quintupling": {
+"definition": "increasing by a factor of five",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quintupling",
+"Quintuple"
+]
+},
+"quip": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Wisecrack",
+"Sally",
+"Crack",
+"Quip",
+"Epigram"
+]
+},
+"quipped": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Gag",
+"Quip"
+]
+},
+"quipping": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Gag",
+"Quip"
+]
+},
+"quips": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Wisecrack",
+"Sally",
+"Crack",
+"Quip",
+"Epigram"
+]
+},
+"quipu": {
+"definition": "calculator consisting of a cord with attached cords; used by ancient Peruvians for calculating and keeping records",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quipu"
+]
+},
+"quipus": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quipu"
+]
+},
+"quira": {
+"definition": "any of several tropical American trees some yielding economically important timber",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quira",
+"Panama redwood"
+]
+},
+"quire": {
+"definition": "a quantity of paper; 24 or 25 sheets",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quire"
+]
+},
+"quires": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quire"
+]
+},
+"quirk": {
+"definition": "twist or curve abruptly",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Oddity",
+"Crotchet",
+"Quirkiness",
+"Quirk",
+"Queerness"
+]
+},
+"quirked": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quirk"
+]
+},
+"quirky": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Far-out",
+"Way-out",
+"Offbeat",
+"Kinky",
+"Quirky"
+]
+},
+"quirkiness": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Oddity",
+"Crotchet",
+"Quirkiness",
+"Quirk",
+"Queerness"
+]
+},
+"quirking": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quirk"
+]
+},
+"quirks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Oddity",
+"Crotchet",
+"Quirkiness",
+"Quirk",
+"Queerness"
+]
+},
+"quirt": {
+"definition": "whip with a leather thong at the end",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quirt"
+]
+},
+"quirts": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quirt"
+]
+},
+"quisling": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Collaborator",
+"Quisling",
+"Collaborationist"
+]
+},
+"quislingism": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Collaboration",
+"Collaborationism",
+"Quislingism"
+]
+},
+"quislings": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Collaborator",
+"Quisling",
+"Collaborationist"
+]
+},
+"quit": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"continue",
+"take_office",
+"stay",
+"enter"
+],
+"synonyms": [
+"Quit",
+"Drop by the wayside",
+"Foreswear",
+"Leave office",
+"Take leave"
+]
+},
+"quitclaim": {
+"definition": "document transferring title or right or claim to another",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quitclaim deed",
+"Quitclaim"
+]
+},
+"quitclaims": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quitclaim deed",
+"Quitclaim"
+]
+},
+"quite": {
+"definition": "to a degree (not used with a negative)",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Quite an",
+"Quite a",
+"Quite",
+"Rather"
+]
+},
+"quiting": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"continue",
+"take_office",
+"stay",
+"enter"
+],
+"synonyms": [
+"Quit",
+"Drop by the wayside",
+"Foreswear",
+"Leave office",
+"Take leave"
+]
+},
+"quito": {
+"definition": "the capital of Ecuador",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Capital of ecuador",
+"Quito"
+]
+},
+"quits": {
+"definition": "on equal terms by payment or requital",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"continue",
+"take_office",
+"stay",
+"enter"
+],
+"synonyms": [
+"Quit",
+"Drop by the wayside",
+"Foreswear",
+"Leave office",
+"Take leave"
+]
+},
+"quittance": {
+"definition": "a document or receipt certifying release from an obligation or debt",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Repayment",
+"Quittance"
+]
+},
+"quittances": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Repayment",
+"Quittance"
+]
+},
+"quitted": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"continue",
+"take_office",
+"stay",
+"enter"
+],
+"synonyms": [
+"Quit",
+"Drop by the wayside",
+"Foreswear",
+"Leave office",
+"Take leave"
+]
+},
+"quitter": {
+"definition": "a person who gives up too easily",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quitter"
+]
+},
+"quitters": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quitter"
+]
+},
+"quitting": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"continue",
+"take_office",
+"stay",
+"enter"
+],
+"synonyms": [
+"Quit",
+"Drop by the wayside",
+"Foreswear",
+"Leave office",
+"Take leave"
+]
+},
+"quiver": {
+"definition": "shake with fast, tremulous movements",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Quake",
+"Vibration",
+"Flicker",
+"Beat",
+"Chill"
+]
+},
+"quivered": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quake",
+"Quiver",
+"Flicker",
+"Flutter",
+"Beat"
+]
+},
+"quivering": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quivering",
+"Quake",
+"Shakiness",
+"Vibration",
+"Quiver"
+]
+},
+"quivers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quake",
+"Vibration",
+"Flicker",
+"Beat",
+"Chill"
+]
+},
+"quixotic": {
+"definition": "not sensible about practical matters; idealistic and unrealistic",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Wild-eyed",
+"Quixotic",
+"Romantic"
+]
+},
+"quixotically": {
+"definition": "in a quixotic manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Quixotically"
+]
+},
+"quixotism": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Knight errantry",
+"Quixotism"
+]
+},
+"quiz": {
+"definition": "examine someone's knowledge of something",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Quiz",
+"Test"
+]
+},
+"quizmaster": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Question master",
+"Quizmaster"
+]
+},
+"quizmasters": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Question master",
+"Quizmaster"
+]
+},
+"quizzed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quiz",
+"Test"
+]
+},
+"quizzer": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quizzer",
+"Tester",
+"Examiner"
+]
+},
+"quizzers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quizzer",
+"Tester",
+"Examiner"
+]
+},
+"quizzes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quiz",
+"Test"
+]
+},
+"quizzical": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Questioning",
+"Teasing",
+"Quizzical",
+"Mocking"
+]
+},
+"quizzically": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Questioningly",
+"Quizzically"
+]
+},
+"quizzing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quiz",
+"Test"
+]
+},
+"qum": {
+"definition": "a city in northwestern Iran; a place of pilgrimage for Shiite Muslims",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Qum"
+]
+},
+"quodlibet": {
+"definition": "an issue that is presented for formal disputation",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quodlibet"
+]
+},
+"quoin": {
+"definition": "expandable metal or wooden wedge used by printers to lock up a form within a chase",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quoin",
+"Corner",
+"Coigne",
+"Coign"
+]
+},
+"quoins": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quoin",
+"Corner",
+"Coigne",
+"Coign"
+]
+},
+"quoit": {
+"definition": "game equipment consisting of a ring of iron or circle of rope used in playing the game of quoits",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quoit"
+]
+},
+"quoits": {
+"definition": "a game in which iron rings (or open iron rings) are thrown at a stake in the ground in the hope of encircling it",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quoits",
+"Horseshoes",
+"Quoit"
+]
+},
+"quondam": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Former",
+"Quondam",
+"Onetime",
+"Sometime",
+"One-time"
+]
+},
+"quoratean": {
+"definition": "a group of languages of the Hokan family",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quoratean"
+]
+},
+"quorum": {
+"definition": "a gathering of the minimal number of members of an organization to conduct business",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quorum"
+]
+},
+"quorums": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quorum"
+]
+},
+"quota": {
+"definition": "a prescribed number",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quota"
+]
+},
+"quotability": {
+"definition": "the quality of being worthy of being quoted",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quotability"
+]
+},
+"quotable": {
+"definition": "suitable for or worthy of quotation",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"unrepeatable",
+"unquotable"
+],
+"synonyms": [
+"Quotable",
+"Repeatable"
+]
+},
+"quotas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quota"
+]
+},
+"quotation": {
+"definition": "a passage or expression that is quoted or cited",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quotation",
+"Mention",
+"Reference",
+"Acknowledgment",
+"Citation"
+]
+},
+"quotations": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quotation",
+"Mention",
+"Reference",
+"Acknowledgment",
+"Citation"
+]
+},
+"quote": {
+"definition": "repeat a passage from",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Quotation",
+"Quotation mark",
+"Inverted comma",
+"Citation",
+"Cite"
+]
+},
+"quoted": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cite",
+"Quote"
+]
+},
+"quoter": {
+"definition": "a communicator (speaker or writer) who uses quotations",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quoter"
+]
+},
+"quoters": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quoter"
+]
+},
+"quotes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quotation",
+"Quotation mark",
+"Inverted comma",
+"Citation",
+"Cite"
+]
+},
+"quotidian": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Everyday",
+"Quotidian",
+"Mundane",
+"Routine",
+"Unremarkable"
+]
+},
+"quotient": {
+"definition": "the ratio of two quantities to be divided",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Quotient"
+]
+},
+"quotients": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quotient"
+]
+},
+"quoting": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cite",
+"Quote"
+]
+},
+"quran": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Quran",
+"Al-qur'an",
+"Koran",
+"Book"
+]
+},
+"qurush": {
+"definition": "20 qurush equal 1 riyal in Saudi Arabia",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Qurush"
+]
+}
 }

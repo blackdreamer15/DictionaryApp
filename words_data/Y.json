@@ -1,41 +1,3845 @@
 {
-    "yap": {
-        "definition": "Bark shrilly",
-        "partOfSpeech": "verb",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "yearn": {
-        "definition": "Feel great longing",
-        "partOfSpeech": "verb",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "yell": {
-        "definition": "A loud sharp cry or call",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-    
-    "yelp": {
-        "definition": "A short sharp cry",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "yield": {
-        "definition": "Give way to demands or pressure, give up possession of",
-        "partOfSpeech": "verb",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    }
+"y": {
+"definition": "the 25th letter of the Roman alphabet",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Wye",
+"Atomic number 39",
+"Yttrium"
+]
+},
+"y-axis": {
+"definition": "the vertical axis in a plane coordinate system",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Y-axis"
+]
+},
+"y-shaped": {
+"definition": "shaped in the form of the letter Y",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Y-shaped"
+]
+},
+"yacca": {
+"definition": "West Indian evergreen with medium to long leaves",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yacca podocarp",
+"Yacca",
+"Podocarpus coriaceus"
+]
+},
+"yacht": {
+"definition": "travel in a yacht",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Yacht",
+"Racing yacht"
+]
+},
+"yachted": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yacht"
+]
+},
+"yachting": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yacht",
+"Yachting",
+"Boating"
+]
+},
+"yachtings": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yacht",
+"Yachting",
+"Boating"
+]
+},
+"yachts": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yacht",
+"Racing yacht"
+]
+},
+"yachtsman": {
+"definition": "a person who owns or sails a yacht",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yachtswoman",
+"Yachtsman"
+]
+},
+"yachtsmen": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yachtswoman",
+"Yachtsman"
+]
+},
+"yachtswoman": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yachtswoman",
+"Yachtsman"
+]
+},
+"yachtswomen": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yachtswoman",
+"Yachtsman"
+]
+},
+"yack": {
+"definition": "talk incessantly and tiresomely",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Yap away",
+"Rattle on",
+"Yack",
+"Yak",
+"Cackle"
+]
+},
+"yacked": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yap away",
+"Rattle on",
+"Jaw",
+"Yack",
+"Yack away"
+]
+},
+"yacking": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yap away",
+"Rattle on",
+"Jaw",
+"Yack",
+"Yack away"
+]
+},
+"yacks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yap away",
+"Rattle on",
+"Yack",
+"Yak",
+"Cackle"
+]
+},
+"yafo": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yafo",
+"Joppa",
+"Jaffa"
+]
+},
+"yagi": {
+"definition": "a sharply directional antenna",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yagi",
+"Yagi aerial"
+]
+},
+"yagis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yagi",
+"Yagi aerial"
+]
+},
+"yahoo": {
+"definition": "one of a race of brutes resembling men but subject to the Houyhnhnms in a novel by Jonathan Swift",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Hick",
+"Yahoo",
+"Hayseed",
+"Yokel",
+"Rube"
+]
+},
+"yahoos": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Hick",
+"Yahoo",
+"Hayseed",
+"Yokel",
+"Rube"
+]
+},
+"yahve": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yahweh",
+"Yhwh",
+"Yahveh",
+"Jahvey",
+"Yahwe"
+]
+},
+"yahveh": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yahweh",
+"Yhwh",
+"Yahveh",
+"Jahvey",
+"Yahwe"
+]
+},
+"yahwe": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yahweh",
+"Yhwh",
+"Yahveh",
+"Jahvey",
+"Yahwe"
+]
+},
+"yahweh": {
+"definition": "a name for the God of the Old Testament as transliterated from the Hebrew consonants YHVH",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yahweh",
+"Yhwh",
+"Yahveh",
+"Jahvey",
+"Yahwe"
+]
+},
+"yajur-veda": {
+"definition": "a collection of sacrificial formulas and prayers",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yajur-veda"
+]
+},
+"yak": {
+"definition": "talk profusely",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Yack",
+"Gab",
+"Yak",
+"Cackle",
+"Chatter"
+]
+},
+"yakety-yak": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yack",
+"Yak",
+"Cackle",
+"Chatter",
+"Yakety-yak"
+]
+},
+"yakima": {
+"definition": "a town in south central Washington",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yakima"
+]
+},
+"yakked": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Gab",
+"Yak"
+]
+},
+"yakking": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Gab",
+"Yak"
+]
+},
+"yaks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yack",
+"Gab",
+"Yak",
+"Cackle",
+"Chatter"
+]
+},
+"yakut": {
+"definition": "a member of a Turkic people of northeastern Siberia (mainly in the Lena river basin)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yakut"
+]
+},
+"yale": {
+"definition": "English philanthropist who made contributions to a college in Connecticut that was renamed in his honor (1649-1721)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yale university",
+"Yale",
+"Elihu yale"
+]
+},
+"yalta": {
+"definition": "a resort city in Crimea in the southern Ukraine on the Black Sea; site of the Allied conference between Roosevelt, Stalin, and Churchill in February 1945",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yalta"
+]
+},
+"yalu": {
+"definition": "river in eastern Asia; rises in North Korea and flows southwest to Korea Bay (forming part of the border between North Korea and China)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yalu river",
+"Yalu"
+]
+},
+"yam": {
+"definition": "edible tuber of any of several yams",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yam",
+"Yam plant"
+]
+},
+"yama": {
+"definition": "Hindu god of death and lord of the underworld",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yama"
+]
+},
+"yamani": {
+"definition": "Saudi Arabian minister of petroleum who was a central figure in the creation of OPEC (born in 1930)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yamani",
+"Ahmed zoki yamani"
+]
+},
+"yammer": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawp",
+"Whine",
+"Yammer",
+"Yowl",
+"Wrawl"
+]
+},
+"yammered": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawp",
+"Whine",
+"Yammer",
+"Yowl",
+"Wrawl"
+]
+},
+"yammering": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawp",
+"Whine",
+"Yammer",
+"Yowl",
+"Wrawl"
+]
+},
+"yammers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawp",
+"Whine",
+"Yammer",
+"Yowl",
+"Wrawl"
+]
+},
+"yams": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yam",
+"Yam plant"
+]
+},
+"yana": {
+"definition": "a member of an extinct North American Indian people who lived in northern California",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yana"
+]
+},
+"yanan": {
+"definition": "a language group of the Hokan family",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yanan"
+]
+},
+"yang": {
+"definition": "the bright positive masculine principle in Chinese dualistic cosmology",
+"partOfSpeech": "Noun",
+"antonyms": [
+"yin"
+],
+"synonyms": [
+"Yang"
+]
+},
+"yangs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"yin"
+],
+"synonyms": [
+"Yang"
+]
+},
+"yangtze": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Chang",
+"Yangtze kiang",
+"Yangtze",
+"Yangtze river",
+"Chang jiang"
+]
+},
+"yank": {
+"definition": "pull, or move with a sudden movement",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Northerner",
+"Jerk",
+"Yankee-doodle",
+"Yank",
+"Yankee"
+]
+},
+"yanked": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Jerk",
+"Yank"
+]
+},
+"yankee": {
+"definition": "used by Southerners for an inhabitant of a northern state in the United States (especially a Union soldier)",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Northerner",
+"Yankee-doodle",
+"New englander",
+"Yank",
+"Yankee"
+]
+},
+"yankee-doodle": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yankee",
+"Yank",
+"Yankee-doodle"
+]
+},
+"yankees": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Northerner",
+"Yankee-doodle",
+"New englander",
+"Yank",
+"Yankee"
+]
+},
+"yanker": {
+"definition": "someone who gives a strong sudden pull",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yanker",
+"Jerker"
+]
+},
+"yanking": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Jerk",
+"Yank"
+]
+},
+"yanks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Northerner",
+"Jerk",
+"Yankee-doodle",
+"Yank",
+"Yankee"
+]
+},
+"yaounde": {
+"definition": "the capital of Cameroon",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yaounde",
+"Capital of cameroon"
+]
+},
+"yap": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cakehole",
+"Yap",
+"Trap",
+"Yip",
+"Gob"
+]
+},
+"yapped": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yip",
+"Yap",
+"Yelp"
+]
+},
+"yapping": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yip",
+"Yap",
+"Yelp"
+]
+},
+"yaps": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cakehole",
+"Yap",
+"Trap",
+"Yip",
+"Gob"
+]
+},
+"yard": {
+"definition": "a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"1000",
+"K",
+"Railway yard",
+"Cubic yard",
+"Curtilage"
+]
+},
+"yardage": {
+"definition": "distance measured in the aggregate number of yards",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yardage"
+]
+},
+"yardages": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yardage"
+]
+},
+"yardarm": {
+"definition": "either end of the yard of a square-rigged ship",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yardarm"
+]
+},
+"yardarms": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yardarm"
+]
+},
+"yardbird": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yard bird",
+"Inmate",
+"Convict",
+"Con",
+"Yardbird"
+]
+},
+"yardbirds": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yard bird",
+"Inmate",
+"Convict",
+"Con",
+"Yardbird"
+]
+},
+"yarder": {
+"definition": "(used only in combinations) the height or length of something in yards",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yard donkey",
+"Yarder"
+]
+},
+"yardgrass": {
+"definition": "coarse annual grass having fingerlike spikes of flowers; native to Old World tropics; a naturalized weed elsewhere",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Eleusine indica",
+"Yardgrass",
+"Wire grass",
+"Goose grass",
+"Yard grass"
+]
+},
+"yardman": {
+"definition": "worker in a railway yard",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yardman"
+]
+},
+"yardmaster": {
+"definition": "a railroad employer who is in charge of a railway yard",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Trainmaster",
+"Train dispatcher",
+"Yardmaster"
+]
+},
+"yardmasters": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Trainmaster",
+"Train dispatcher",
+"Yardmaster"
+]
+},
+"yardmen": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yardman"
+]
+},
+"yards": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"1000",
+"K",
+"Railway yard",
+"Cubic yard",
+"Curtilage"
+]
+},
+"yardstick": {
+"definition": "a measure or standard used for comparison",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yardstick",
+"Yard measure"
+]
+},
+"yardsticks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yardstick",
+"Yard measure"
+]
+},
+"yarmelke": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yarmulke",
+"Yarmelke",
+"Yarmulka"
+]
+},
+"yarmelkes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yarmulke",
+"Yarmelke",
+"Yarmulka"
+]
+},
+"yarmulka": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yarmulke",
+"Yarmelke",
+"Yarmulka"
+]
+},
+"yarmulke": {
+"definition": "a skullcap worn by religious Jews (especially at prayer)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yarmulke",
+"Yarmelke",
+"Yarmulka"
+]
+},
+"yarmulkes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yarmulke",
+"Yarmelke",
+"Yarmulka"
+]
+},
+"yarn": {
+"definition": "tell or spin a yarn",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Recital",
+"Thread",
+"Narration",
+"Yarn"
+]
+},
+"yarn-dye": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yarn-dye",
+"Impress"
+]
+},
+"yarn-dyed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yarn-dye",
+"Impress"
+]
+},
+"yarn-spinning": {
+"definition": "inclined to tell long and involved stories (often of incredible happenings)",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yarn-spinning"
+]
+},
+"yarned": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yarn"
+]
+},
+"yarning": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yarn"
+]
+},
+"yarns": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Recital",
+"Thread",
+"Narration",
+"Yarn"
+]
+},
+"yarrow": {
+"definition": "ubiquitous strong-scented mat-forming Eurasian herb of wasteland, hedgerow or pasture having narrow serrate leaves and small usually white florets; widely naturalized in North America",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Milfoil",
+"Yarrow",
+"Achillea millefolium"
+]
+},
+"yarrows": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Milfoil",
+"Yarrow",
+"Achillea millefolium"
+]
+},
+"yashmac": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yashmak",
+"Yashmac"
+]
+},
+"yashmacs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yashmak",
+"Yashmac"
+]
+},
+"yashmak": {
+"definition": "the face veil worn by Muslim women",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yashmak",
+"Yashmac"
+]
+},
+"yashmaks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yashmak",
+"Yashmac"
+]
+},
+"yataghan": {
+"definition": "a long Turkish knife with a curved blade having a single edge",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yataghan"
+]
+},
+"yataghans": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yataghan"
+]
+},
+"yaup": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawl",
+"Wail",
+"Ululate",
+"Yaup",
+"Roar"
+]
+},
+"yauped": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawl",
+"Wail",
+"Ululate",
+"Yaup",
+"Roar"
+]
+},
+"yauping": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawl",
+"Wail",
+"Ululate",
+"Yaup",
+"Roar"
+]
+},
+"yaups": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawl",
+"Wail",
+"Ululate",
+"Yaup",
+"Roar"
+]
+},
+"yautia": {
+"definition": "tropical American aroid having edible tubers that are cooked and eaten like yams or potatoes",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Tannia",
+"Spoonflower",
+"Malanga",
+"Yautia",
+"Xanthosoma atrovirens"
+]
+},
+"yautias": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Tannia",
+"Spoonflower",
+"Malanga",
+"Yautia",
+"Xanthosoma atrovirens"
+]
+},
+"yavapai": {
+"definition": "a member of a North American Indian people of central Arizona",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yavapai"
+]
+},
+"yaw": {
+"definition": "an erratic deflection from an intended course",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Gape",
+"Yawn",
+"Yaw",
+"Swerve"
+]
+},
+"yawed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Gape",
+"Yawn",
+"Yaw"
+]
+},
+"yawing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Gape",
+"Yawn",
+"Yaw"
+]
+},
+"yawl": {
+"definition": "a ship's small boat (usually rowed by 4 or 6 oars)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Dandy",
+"Yawl",
+"Wail",
+"Ululate",
+"Yaup"
+]
+},
+"yawled": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawl",
+"Wail",
+"Ululate",
+"Yaup",
+"Roar"
+]
+},
+"yawling": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawl",
+"Wail",
+"Ululate",
+"Yaup",
+"Roar"
+]
+},
+"yawls": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Dandy",
+"Yawl",
+"Wail",
+"Ululate",
+"Yaup"
+]
+},
+"yawn": {
+"definition": "utter a yawn, as from lack of oxygen or when one is tired",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Yawn",
+"Oscitance",
+"Oscitancy",
+"Gape",
+"Yaw"
+]
+},
+"yawned": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Gape",
+"Yawn",
+"Yaw"
+]
+},
+"yawner": {
+"definition": "a person who yawns",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yawner"
+]
+},
+"yawners": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawner"
+]
+},
+"yawning": {
+"definition": "gaping open as if threatening to engulf someone or something",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Drowsy",
+"Oscitant",
+"Yawn",
+"Oscitance",
+"Oscitancy"
+]
+},
+"yawns": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawn",
+"Oscitance",
+"Oscitancy",
+"Gape",
+"Yaw"
+]
+},
+"yawp": {
+"definition": "make a raucous noise",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Yawp",
+"Bawl",
+"Whine",
+"Yammer",
+"Grizzle"
+]
+},
+"yawped": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawp",
+"Bawl",
+"Whine",
+"Yammer",
+"Grizzle"
+]
+},
+"yawping": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawp",
+"Bawl",
+"Whine",
+"Yammer",
+"Grizzle"
+]
+},
+"yawpings": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawp",
+"Bawl",
+"Whine",
+"Yammer",
+"Grizzle"
+]
+},
+"yawps": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yawp",
+"Bawl",
+"Whine",
+"Yammer",
+"Grizzle"
+]
+},
+"yaws": {
+"definition": "an infectious tropical disease resembling syphilis in its early stages; marked by red skin eruptions and ulcerating lesions",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Frambesia",
+"Yaws",
+"Yawn",
+"Gape",
+"Yaw"
+]
+},
+"yay": {
+"definition": "a branch of the Tai languages",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yay"
+]
+},
+"yays": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yay"
+]
+},
+"yazoo": {
+"definition": "a river that rises in west central Mississippi and flows southwest to empty into the Mississippi River above Vicksburg",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yazoo river",
+"Yazoo"
+]
+},
+"yb": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yottabit",
+"Yobibyte",
+"Yib",
+"Ytterbium",
+"Atomic number 70"
+]
+},
+"yea": {
+"definition": "not only so, but",
+"partOfSpeech": "Adverb",
+"antonyms": [
+"nay"
+],
+"synonyms": [
+"Yeah",
+"Yea"
+]
+},
+"yeah": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yeah",
+"Yea"
+]
+},
+"year": {
+"definition": "a period of time containing 365 (or 366) days",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Class",
+"Year",
+"Yr",
+"Twelvemonth"
+]
+},
+"year-around": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"seasonal"
+],
+"synonyms": [
+"Year-round",
+"Year-around"
+]
+},
+"year-end": {
+"definition": "taking place at the close of a fiscal year",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Year-end"
+]
+},
+"year-round": {
+"definition": "operating or continuing throughout the year",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"seasonal"
+],
+"synonyms": [
+"Year-round",
+"Year-around"
+]
+},
+"yearbook": {
+"definition": "a book published annually by the graduating class of a high school or college usually containing photographs of faculty and graduating students",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yearbook",
+"Yearly",
+"Annual"
+]
+},
+"yearbooks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yearbook",
+"Yearly",
+"Annual"
+]
+},
+"yearlies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yearbook",
+"Yearly",
+"Annual"
+]
+},
+"yearling": {
+"definition": "a racehorse considered one year old until the second Jan. 1 following its birth",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yearling",
+"Tot",
+"Bambino",
+"Toddler"
+]
+},
+"yearlings": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yearling",
+"Tot",
+"Bambino",
+"Toddler"
+]
+},
+"yearlong": {
+"definition": "lasting through a year",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yearlong"
+]
+},
+"yearly": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yearly",
+"Yearbook",
+"Every year",
+"Annually",
+"Annual"
+]
+},
+"yearn": {
+"definition": "have affection for; feel tenderness for",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Long",
+"Yen",
+"Pine",
+"Yearn",
+"Languish"
+]
+},
+"yearned": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Long",
+"Yen",
+"Pine",
+"Yearn",
+"Languish"
+]
+},
+"yearner": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Longer",
+"Yearner",
+"Thirster"
+]
+},
+"yearners": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Longer",
+"Yearner",
+"Thirster"
+]
+},
+"yearning": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Long",
+"Yen",
+"Pine",
+"Yearn",
+"Hungriness"
+]
+},
+"yearningly": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Longingly",
+"Yearningly"
+]
+},
+"yearnings": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Long",
+"Yen",
+"Pine",
+"Yearn",
+"Hungriness"
+]
+},
+"yearns": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Long",
+"Yen",
+"Pine",
+"Yearn",
+"Languish"
+]
+},
+"years": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Geezerhood",
+"Class",
+"Year",
+"Yr",
+"Age"
+]
+},
+"yeas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"nay"
+],
+"synonyms": [
+"Yea"
+]
+},
+"yeast": {
+"definition": "a commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Barm",
+"Yeast"
+]
+},
+"yeastier": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zestful",
+"Yeastlike",
+"Yeasty",
+"Zesty",
+"Barmy"
+]
+},
+"yeastiest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zestful",
+"Yeastlike",
+"Yeasty",
+"Zesty",
+"Barmy"
+]
+},
+"yeastlike": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yeasty",
+"Yeastlike"
+]
+},
+"yeasts": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Barm",
+"Yeast"
+]
+},
+"yeasty": {
+"definition": "of or resembling or containing yeast",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zestful",
+"Yeastlike",
+"Yeasty",
+"Zesty",
+"Barmy"
+]
+},
+"yeats": {
+"definition": "Irish poet and dramatist (1865-1939)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"William butler yeats",
+"W. b. yeats",
+"Yeats"
+]
+},
+"yeatsian": {
+"definition": "in the manner of William Butler Yeats",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yeatsian"
+]
+},
+"yedo": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yeddo",
+"Tokio",
+"Capital of japan",
+"Tokyo",
+"Edo"
+]
+},
+"yekaterinoslav": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Dnipropetrovsk",
+"Yekaterinoslav"
+]
+},
+"yell": {
+"definition": "utter or declare in a very loud voice",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Outcry",
+"Yell",
+"Shout",
+"Hollo",
+"Vociferation"
+]
+},
+"yelled": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Shout",
+"Yell",
+"Hollo",
+"Shouted",
+"Yelled"
+]
+},
+"yeller": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yeller",
+"Screecher",
+"Shouter",
+"Roarer",
+"Bawler"
+]
+},
+"yellers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yeller",
+"Screecher",
+"Shouter",
+"Roarer",
+"Bawler"
+]
+},
+"yelling": {
+"definition": "uttering a loud inarticulate cry as of pain or excitement",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Shout",
+"Yell",
+"Hollo",
+"Shout out",
+"Call"
+]
+},
+"yellow": {
+"definition": "of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Chicken",
+"Lily-livered",
+"Yellow",
+"White-livered",
+"Sensationalistic"
+]
+},
+"yellow-banded": {
+"definition": "having yellow bands",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yellow-banded"
+]
+},
+"yellow-bellied": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Chicken",
+"Lily-livered",
+"Yellow",
+"White-livered",
+"Yellow-bellied"
+]
+},
+"yellow-brown": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellow-brown",
+"Amber",
+"Brownish-yellow"
+]
+},
+"yellow-green": {
+"definition": "of a color midway between yellow and green",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yellow-green"
+]
+},
+"yellow-marked": {
+"definition": "having yellow marks",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yellow-marked"
+]
+},
+"yellow-orange": {
+"definition": "of orange tinged with yellow",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yellowish-orange",
+"Yellow-orange"
+]
+},
+"yellow-spotted": {
+"definition": "having yellow spots",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yellow-spotted"
+]
+},
+"yellow-striped": {
+"definition": "having yellow stripes",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yellow-striped"
+]
+},
+"yellow-tinged": {
+"definition": "of a color tinged with yellow",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yellow-tinged"
+]
+},
+"yellow-tipped": {
+"definition": "of a flower tipped with yellow",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yellow-tipped"
+]
+},
+"yellow-white": {
+"definition": "of a white tinged with yellow",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yellow-white",
+"Yellowish-white"
+]
+},
+"yellowbird": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"New world goldfinch",
+"Golden warbler",
+"Yellow warbler",
+"Yellowbird",
+"Dendroica petechia"
+]
+},
+"yellowcake": {
+"definition": "an impure mixture of uranium oxides obtained during the processing of uranium ore",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yellowcake",
+"U308"
+]
+},
+"yellowed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellowed",
+"Yellow"
+]
+},
+"yellower": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Chicken",
+"Lily-livered",
+"Yellow",
+"White-livered",
+"Sensationalistic"
+]
+},
+"yellowest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Chicken",
+"Lily-livered",
+"Yellow",
+"White-livered",
+"Sensationalistic"
+]
+},
+"yellowfin": {
+"definition": "may reach 400 pounds; worldwide in tropics",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yellowfin",
+"Thunnus albacares",
+"Yellowfin tuna"
+]
+},
+"yellowhammer": {
+"definition": "European bunting the male being bright yellow",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Emberiza citrinella",
+"Yellow-shafted flicker",
+"Yellowhammer",
+"Colaptes auratus",
+"Yellow bunting"
+]
+},
+"yellowing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellow"
+]
+},
+"yellowish": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellow",
+"Xanthous",
+"Yellowish"
+]
+},
+"yellowish-gray": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellow-gray",
+"Yellowish-grey",
+"Yellow-grey",
+"Yellowish-gray"
+]
+},
+"yellowish-orange": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellowish-orange",
+"Yellow-orange"
+]
+},
+"yellowish-white": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellow-white",
+"Yellowish-white"
+]
+},
+"yellowknife": {
+"definition": "a town in the Northwest Territories in northern Canada on the Great Slave Lake",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yellowknife"
+]
+},
+"yellowlegs": {
+"definition": "either of two North American shorebird with yellow legs",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yellowlegs"
+]
+},
+"yellowness": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellowness",
+"Yellow"
+]
+},
+"yellows": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellowness",
+"Yellow"
+]
+},
+"yellowstone": {
+"definition": "a tributary of the Missouri River that flows through the Yellowstone National Park",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yellowstone",
+"Yellowstone river"
+]
+},
+"yellowtail": {
+"definition": "superior food fish of the tropical Atlantic and Caribbean with broad yellow stripe along the sides and on the tail",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yellowtail snapper",
+"Ocyurus chrysurus",
+"Seriola dorsalis",
+"Yellowtail"
+]
+},
+"yellowtails": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellowtail snapper",
+"Ocyurus chrysurus",
+"Seriola dorsalis",
+"Yellowtail"
+]
+},
+"yellowthroat": {
+"definition": "small olive-colored American warblers with yellow breast and throat",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yellowthroat"
+]
+},
+"yellowwood": {
+"definition": "the yellow wood of any of various yellowwood trees",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yellowwood",
+"Yellowwood tree"
+]
+},
+"yells": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Outcry",
+"Yell",
+"Shout",
+"Hollo",
+"Vociferation"
+]
+},
+"yelp": {
+"definition": "bark in a high-pitched tone",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Yelping",
+"Yip",
+"Yap",
+"Yelp"
+]
+},
+"yelped": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yip",
+"Yap",
+"Yelp"
+]
+},
+"yelping": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yelping",
+"Yip",
+"Yap",
+"Yelp"
+]
+},
+"yelps": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yelping",
+"Yip",
+"Yap",
+"Yelp"
+]
+},
+"yemen": {
+"definition": "a republic on the southwestern shores of the Arabian Peninsula on the Indian Ocean; formed in 1990",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yemen",
+"Republic of yemen"
+]
+},
+"yemeni": {
+"definition": "of or relating to or characteristic of Yemen or its inhabitants",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yemeni"
+]
+},
+"yen": {
+"definition": "the basic unit of money in Japan; equal to 100 sen",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yen",
+"Pine",
+"Yearn",
+"Languish",
+"Hankering"
+]
+},
+"yenisei": {
+"definition": "a Russian river in Siberia; rises in mountains near the Mongolian border and flows generally northward into the Kara Sea",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yenisey river",
+"Yenisei",
+"Yeniseian",
+"Enets",
+"Yenisei-samoyed"
+]
+},
+"yeniseian": {
+"definition": "a member of one of the groups living in the Yenisei river valley in western Siberia",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yenisei",
+"Yeniseian",
+"Enets",
+"Yenisei-samoyed",
+"Entsi"
+]
+},
+"yenned": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yen",
+"Pine",
+"Yearn",
+"Languish",
+"Ache"
+]
+},
+"yenning": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yen",
+"Pine",
+"Yearn",
+"Languish",
+"Ache"
+]
+},
+"yens": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yen",
+"Pine",
+"Yearn",
+"Languish",
+"Hankering"
+]
+},
+"yenta": {
+"definition": "(Yiddish) a vulgar shrew; a shallow coarse termagant",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yenta"
+]
+},
+"yentas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yenta"
+]
+},
+"yeoman": {
+"definition": "officer in the (ceremonial) bodyguard of the British monarch",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Beefeater",
+"Yeoman of the guard",
+"Yeoman"
+]
+},
+"yeomanries": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yeomanry"
+]
+},
+"yeomanry": {
+"definition": "class of small freeholders who cultivated their own land",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yeomanry"
+]
+},
+"yeomen": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Beefeater",
+"Yeoman of the guard",
+"Yeoman"
+]
+},
+"yerevan": {
+"definition": "capital of Armenia",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Capital of armenia",
+"Yerevan",
+"Jerevan",
+"Erivan"
+]
+},
+"yerkes": {
+"definition": "United States psychologist who studied the intelligence of primates (1876-1956)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Robert mearns yerkes",
+"Yerkes",
+"Robert m. yerkes"
+]
+},
+"yerwa-maiduguri": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yerwa-maiduguri",
+"Maiduguri"
+]
+},
+"yes": {
+"definition": "an affirmative",
+"partOfSpeech": "Noun",
+"antonyms": [
+"no"
+],
+"synonyms": [
+"Yes"
+]
+},
+"yes-man": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Flunkey",
+"Stooge",
+"Flunky",
+"Yes-man"
+]
+},
+"yeses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"no"
+],
+"synonyms": [
+"Yes"
+]
+},
+"yeshiva": {
+"definition": "an academy for the advanced study of Jewish texts (primarily the Talmud)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yeshiva",
+"Yeshivah"
+]
+},
+"yeshivah": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yeshiva",
+"Yeshivah"
+]
+},
+"yeshivahs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yeshiva",
+"Yeshivah"
+]
+},
+"yeshivas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yeshiva",
+"Yeshivah"
+]
+},
+"yeshivoth": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yeshiva",
+"Yeshivah"
+]
+},
+"yesses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"no"
+],
+"synonyms": [
+"Yes"
+]
+},
+"yesterday": {
+"definition": "on the day preceding today",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Yesterday"
+]
+},
+"yesterdays": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yesterday"
+]
+},
+"yesteryear": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"future"
+],
+"synonyms": [
+"Yesteryear",
+"Past times",
+"Past"
+]
+},
+"yesteryears": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"future"
+],
+"synonyms": [
+"Yesteryear",
+"Past times",
+"Past"
+]
+},
+"yet": {
+"definition": "up to the present time",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"So far",
+"All the same",
+"Even so",
+"Up to now",
+"Even"
+]
+},
+"yeti": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Abominable snowman",
+"Yeti"
+]
+},
+"yetis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Abominable snowman",
+"Yeti"
+]
+},
+"yevtushenko": {
+"definition": "Russian poet who expressed the feelings of the post-Stalinist generation (born in 1933)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yevgeni yevtushenko",
+"Yevgeni aleksandrovich yevtushenko",
+"Yevtushenko"
+]
+},
+"yew": {
+"definition": "wood of a yew; especially the durable fine-grained light brown or red wood of the English yew valued for cabinetwork and archery bows",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yew"
+]
+},
+"yews": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yew"
+]
+},
+"yezo": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Hokkaido",
+"Ezo",
+"Yezo"
+]
+},
+"ygdrasil": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ygdrasil",
+"Yggdrasil"
+]
+},
+"yggdrasil": {
+"definition": "(Norse mythology) a huge ash tree whose roots and branches hold the earth and Heaven and Hell together",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Ygdrasil",
+"Yggdrasil"
+]
+},
+"yhvh": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yahweh",
+"Yhwh",
+"Yahveh",
+"Jahvey",
+"Yahwe"
+]
+},
+"yhwh": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yahweh",
+"Yhwh",
+"Yahveh",
+"Jahvey",
+"Yahwe"
+]
+},
+"yi": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yi",
+"Lolo"
+]
+},
+"yid": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Kike",
+"Hymie",
+"Yid",
+"Sheeny"
+]
+},
+"yiddish": {
+"definition": "a dialect of High German including some Hebrew and other words; spoken in Europe as a vernacular by many Jews; written in the Hebrew script",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yiddish"
+]
+},
+"yids": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Kike",
+"Hymie",
+"Yid",
+"Sheeny"
+]
+},
+"yield": {
+"definition": "be the cause or source of",
+"partOfSpeech": "Verb",
+"antonyms": [
+"stand",
+"survive"
+],
+"synonyms": [
+"Payoff",
+"Buckle under",
+"Give",
+"Fruit",
+"Afford"
+]
+},
+"yielded": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"stand",
+"survive"
+],
+"synonyms": [
+"Buckle under",
+"Give",
+"Afford",
+"Bear",
+"Cede"
+]
+},
+"yielder": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Surrenderer",
+"Yielder"
+]
+},
+"yielders": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Surrenderer",
+"Yielder"
+]
+},
+"yielding": {
+"definition": "inclined to yield to argument or influence or control",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"stand",
+"survive"
+],
+"synonyms": [
+"Buckle under",
+"Give",
+"Afford",
+"Bear",
+"Cede"
+]
+},
+"yieldingly": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"disobediently"
+],
+"synonyms": [
+"Yieldingly",
+"Obediently"
+]
+},
+"yields": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"stand",
+"survive"
+],
+"synonyms": [
+"Payoff",
+"Buckle under",
+"Give",
+"Fruit",
+"Afford"
+]
+},
+"yin": {
+"definition": "the dark negative feminine principle in Chinese dualistic cosmology",
+"partOfSpeech": "Noun",
+"antonyms": [
+"yang"
+],
+"synonyms": [
+"Yin"
+]
+},
+"yins": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"yang"
+],
+"synonyms": [
+"Yin"
+]
+},
+"yip": {
+"definition": "a sharp high-pitched cry (especially by a dog)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yelping",
+"Yip",
+"Yap",
+"Yelp"
+]
+},
+"yipes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yip",
+"Yap",
+"Yelp"
+]
+},
+"yips": {
+"definition": "nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yips",
+"Yelping",
+"Yap",
+"Yip",
+"Yelp"
+]
+},
+"yis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yi",
+"Lolo"
+]
+},
+"ylang-ylang": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ylang-ylang",
+"Ilang-ilang",
+"Cananga odorata"
+]
+},
+"ylem": {
+"definition": "(cosmology) the original matter that (according to the big bang theory) existed before the formation of the chemical elements",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Ylem"
+]
+},
+"ylems": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ylem"
+]
+},
+"ymir": {
+"definition": "(Norse mythology) the primeval giant slain by Odin and his brothers and from whose body they created the world: the sea from his blood; the earth from his flesh; the mountains from his bones; the sky from his skull",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Ymir"
+]
+},
+"yo-yo": {
+"definition": "a toy consisting of a spool that is reeled up and down on a string by motions of the hand",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yo-yo"
+]
+},
+"yo-yos": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yo-yo"
+]
+},
+"yob": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ruffian",
+"Rowdy",
+"Yob",
+"Bully",
+"Tough"
+]
+},
+"yobbo": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ruffian",
+"Rowdy",
+"Yob",
+"Bully",
+"Tough"
+]
+},
+"yobbos": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ruffian",
+"Rowdy",
+"Yob",
+"Bully",
+"Tough"
+]
+},
+"yobs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ruffian",
+"Rowdy",
+"Yob",
+"Bully",
+"Tough"
+]
+},
+"yodel": {
+"definition": "sing by changing register; sing by yodeling",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Warble",
+"Yodel",
+"Descant"
+]
+},
+"yodeled": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Warble",
+"Yodel",
+"Descant"
+]
+},
+"yodeling": {
+"definition": "singing by changing back and forth between the chest voice and a falsetto",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yodel",
+"Warble",
+"Yodeling",
+"Descant"
+]
+},
+"yodelled": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Warble",
+"Yodel",
+"Descant"
+]
+},
+"yodeller": {
+"definition": "a singer who changes register rapidly (popular is Swiss folk songs)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yodeller"
+]
+},
+"yodellers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yodeller"
+]
+},
+"yodelling": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Warble",
+"Yodel",
+"Descant"
+]
+},
+"yodels": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Warble",
+"Yodel",
+"Descant"
+]
+},
+"yodh": {
+"definition": "the 10th letter of the Hebrew alphabet",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yodh"
+]
+},
+"yodhs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yodh"
+]
+},
+"yoga": {
+"definition": "Hindu discipline aimed at training the consciousness for a state of perfect spiritual insight and tranquility that is achieved through the three paths of actions and knowledge and devotion",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yoga"
+]
+},
+"yogas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yoga"
+]
+},
+"yoghourt": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yoghurt",
+"Yoghourt",
+"Yogurt"
+]
+},
+"yoghourts": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yoghurt",
+"Yoghourt",
+"Yogurt"
+]
+},
+"yoghurt": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yoghurt",
+"Yoghourt",
+"Yogurt"
+]
+},
+"yoghurts": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yoghurt",
+"Yoghourt",
+"Yogurt"
+]
+},
+"yogi": {
+"definition": "one who practices yoga and has achieved a high level of spiritual insight",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Lawrence peter berra",
+"Yogi",
+"Yogi berra",
+"Berra"
+]
+},
+"yogic": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yogic",
+"Yogistic"
+]
+},
+"yogin": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Lawrence peter berra",
+"Yogi",
+"Yogi berra",
+"Berra"
+]
+},
+"yogis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Lawrence peter berra",
+"Yogi",
+"Yogi berra",
+"Berra"
+]
+},
+"yogurt": {
+"definition": "a custard-like food made from curdled milk",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yoghurt",
+"Yoghourt",
+"Yogurt"
+]
+},
+"yogurts": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yoghurt",
+"Yoghourt",
+"Yogurt"
+]
+},
+"yoke": {
+"definition": "become joined or linked together",
+"partOfSpeech": "Verb",
+"antonyms": [
+"unyoke"
+],
+"synonyms": [
+"Span",
+"Duo",
+"Yoke",
+"Duad",
+"Link"
+]
+},
+"yoked": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unyoke"
+],
+"synonyms": [
+"Link",
+"Yoke"
+]
+},
+"yokel": {
+"definition": "a person who is not very intelligent or interested in culture",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Hick",
+"Yahoo",
+"Hayseed",
+"Yokel",
+"Rube"
+]
+},
+"yokelish": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Rude",
+"Bounderish",
+"Yokelish",
+"Lowbred",
+"Ill-bred"
+]
+},
+"yokels": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Hick",
+"Yahoo",
+"Hayseed",
+"Yokel",
+"Rube"
+]
+},
+"yokes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unyoke"
+],
+"synonyms": [
+"Span",
+"Duo",
+"Yoke",
+"Duad",
+"Link"
+]
+},
+"yoking": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unyoke"
+],
+"synonyms": [
+"Link",
+"Yoke"
+]
+},
+"yokohama": {
+"definition": "port city on southeastern Honshu in central Japan",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yokohama"
+]
+},
+"yokuts": {
+"definition": "a member of the North American Indian people of the San Joaquin Valley",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Mariposan",
+"Yokuts"
+]
+},
+"yolk": {
+"definition": "nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Vitellus",
+"Yolk",
+"Egg yolk"
+]
+},
+"yolks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Vitellus",
+"Yolk",
+"Egg yolk"
+]
+},
+"yon": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yonder",
+"Yon"
+]
+},
+"yonder": {
+"definition": "at or in an indicated (usually distant) place (`yon' is archaic and dialectal)",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Yonder",
+"Yon"
+]
+},
+"yore": {
+"definition": "time long past",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yore"
+]
+},
+"yores": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yore"
+]
+},
+"york": {
+"definition": "the English royal house (a branch of the Plantagenet line) that reigned from 1461 to 1485; its emblem was a white rose",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"House of york",
+"York"
+]
+},
+"yorks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"House of york",
+"York"
+]
+},
+"yorkshire": {
+"definition": "a former large county in northern England; in 1974 it was divided into three smaller counties",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yorkshire"
+]
+},
+"yorktown": {
+"definition": "a historic village in southeastern Virginia to the north of Newport News; site of the last battle of the American Revolution",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Siege of yorktown",
+"Yorktown"
+]
+},
+"yoruba": {
+"definition": "a member of a West African people living chiefly in southwestern Nigeria",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Aku",
+"Yoruba"
+]
+},
+"yorubas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Aku",
+"Yoruba"
+]
+},
+"yosemite": {
+"definition": "a series of waterfalls in Yosemite National Park in California; is reduced to a trickle for part of each year",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yosemite",
+"Yosemite falls"
+]
+},
+"young": {
+"definition": "(used of living things especially persons) in an early period of life or development or growth",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"old",
+"aged"
+],
+"synonyms": [
+"Immature",
+"Untested",
+"Whitney moore young jr.",
+"Lester willis young",
+"New"
+]
+},
+"younger": {
+"definition": "used of the younger of two persons of the same name especially used to distinguish a son from his father",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"old"
+],
+"synonyms": [
+"New",
+"Unseasoned",
+"Untried",
+"Younger",
+"Immature"
+]
+},
+"youngest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"old"
+],
+"synonyms": [
+"New",
+"Unseasoned",
+"Untried",
+"Immature",
+"Vernal"
+]
+},
+"youngish": {
+"definition": "somewhat young",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Youngish"
+]
+},
+"youngness": {
+"definition": "the opposite of oldness",
+"partOfSpeech": "Noun",
+"antonyms": [
+"oldness"
+],
+"synonyms": [
+"Youngness"
+]
+},
+"youngs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"aged"
+],
+"synonyms": [
+"Edward young",
+"Brigham young",
+"Whitney young",
+"Offspring",
+"Thomas young"
+]
+},
+"youngster": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Child",
+"Minor",
+"Youngster",
+"Tiddler",
+"Tyke"
+]
+},
+"youngsters": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Child",
+"Minor",
+"Youngster",
+"Tiddler",
+"Tyke"
+]
+},
+"youngstown": {
+"definition": "a city in northeast Ohio",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Youngstown"
+]
+},
+"younker": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Younker",
+"Youth",
+"Spring chicken",
+"Young person"
+]
+},
+"younkers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Younker",
+"Youth",
+"Spring chicken",
+"Young person"
+]
+},
+"youth": {
+"definition": "the time of life between childhood and maturity",
+"partOfSpeech": "Noun",
+"antonyms": [
+"aged"
+],
+"synonyms": [
+"Early days",
+"Spring chicken",
+"Youth",
+"Youthfulness",
+"Young"
+]
+},
+"youthful": {
+"definition": "suggestive of youth; vigorous and fresh",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Youthful",
+"Vernal",
+"Young"
+]
+},
+"youthfully": {
+"definition": "in a youthful manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Youthfully"
+]
+},
+"youthfulness": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Juvenility",
+"Youth",
+"Youthfulness"
+]
+},
+"youthfulnesses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Juvenility",
+"Youth",
+"Youthfulness"
+]
+},
+"youths": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"aged"
+],
+"synonyms": [
+"Early days",
+"Spring chicken",
+"Youth",
+"Youthfulness",
+"Young"
+]
+},
+"yowl": {
+"definition": "utter shrieks, as of cats",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Hollering",
+"Hollo",
+"Holloa",
+"Roar",
+"Bellowing"
+]
+},
+"yowled": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yammer",
+"Caterwaul",
+"Yowl",
+"Wrawl",
+"Howl"
+]
+},
+"yowling": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yammer",
+"Caterwaul",
+"Yowl",
+"Wrawl",
+"Howl"
+]
+},
+"yowls": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Hollering",
+"Hollo",
+"Holloa",
+"Roar",
+"Bellowing"
+]
+},
+"ypres": {
+"definition": "battle in World War I (1917); an Allied offensive which eventually failed because tanks bogged down in the waterlogged soil of Flanders; Germans introduced mustard gas which interfered with the Allied artillery",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Second battle of ypres",
+"Battle of ypres",
+"Ypres",
+"Third battle of ypres",
+"First battle of ypres"
+]
+},
+"yquem": {
+"definition": "a sweet white French wine",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yquem"
+]
+},
+"yr": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Year",
+"Yr",
+"Twelvemonth"
+]
+},
+"yrs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Year",
+"Yr",
+"Twelvemonth"
+]
+},
+"ys": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Y",
+"Wye",
+"Atomic number 39",
+"Yttrium"
+]
+},
+"ytterbite": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ytterbite",
+"Gadolinite"
+]
+},
+"ytterbium": {
+"definition": "a soft silvery metallic element; a rare earth of the lanthanide series; it occurs in gadolinite and monazite and xenotime",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Atomic number 70",
+"Yb",
+"Ytterbium"
+]
+},
+"yttrium": {
+"definition": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Y",
+"Atomic number 39",
+"Yttrium"
+]
+},
+"yttriums": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Y",
+"Atomic number 39",
+"Yttrium"
+]
+},
+"yuan": {
+"definition": "the basic unit of money in China",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yuan",
+"Yuan dynasty",
+"Mongol dynasty",
+"Kwai"
+]
+},
+"yuans": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yuan",
+"Yuan dynasty",
+"Mongol dynasty",
+"Kwai"
+]
+},
+"yucatan": {
+"definition": "a state of Mexico on the northern part of the Yucatan Peninsula",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yucatan peninsula",
+"Yucatan"
+]
+},
+"yucatec": {
+"definition": "a member of the Mayan people of the Yucatan peninsula in Mexico",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yucatec",
+"Yucateco"
+]
+},
+"yucateco": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yucatec",
+"Yucateco"
+]
+},
+"yucatecs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yucatec",
+"Yucateco"
+]
+},
+"yucca": {
+"definition": "any of several evergreen plants of the genus Yucca having usually tall stout stems and a terminal cluster of white flowers; warmer regions of North America",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yucca"
+]
+},
+"yuccas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yucca"
+]
+},
+"yucky": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Disgusting",
+"Foul",
+"Wicked",
+"Repelling",
+"Yucky"
+]
+},
+"yugoslav": {
+"definition": "a native or inhabitant of Yugoslavia",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yugoslav",
+"Jugoslav",
+"Yugoslavian",
+"Jugoslavian"
+]
+},
+"yugoslavia": {
+"definition": "a former country of southeastern Europe bordering the Adriatic Sea; formed in 1918 and named Yugoslavia in 1929; controlled by Marshal Tito as a communist state until his death in 1980",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Federal republic of yugoslavia",
+"Yugoslavia",
+"Serbia and montenegro",
+"Union of serbia and montenegro",
+"Jugoslavija"
+]
+},
+"yugoslavian": {
+"definition": "of or relating to or characteristic of the former country of Yugoslavia or its people or languages",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yugoslav",
+"Jugoslav",
+"Yugoslavian",
+"Jugoslavian"
+]
+},
+"yugoslavians": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yugoslav",
+"Jugoslav",
+"Yugoslavian",
+"Jugoslavian"
+]
+},
+"yugoslavs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yugoslav",
+"Jugoslav",
+"Yugoslavian",
+"Jugoslavian"
+]
+},
+"yukawa": {
+"definition": "Japanese mathematical physicist who proposed that nuclear forces are mediated by massive particles called mesons which are analogous to the photon in mediating electromagnetic forces (1907-1981)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Hideki yukawa",
+"Yukawa"
+]
+},
+"yukon": {
+"definition": "a North American river that flows westward from the Yukon Territory through central Alaska to the Bering Sea",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yukon territory",
+"Yukon river",
+"Yukon"
+]
+},
+"yule": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Christmastime",
+"Yule",
+"Noel",
+"Yuletide",
+"Christmastide"
+]
+},
+"yules": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Christmastime",
+"Yule",
+"Noel",
+"Yuletide",
+"Christmastide"
+]
+},
+"yuletide": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Christmastime",
+"Yule",
+"Noel",
+"Yuletide",
+"Christmastide"
+]
+},
+"yuletides": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Christmastime",
+"Yule",
+"Noel",
+"Yuletide",
+"Christmastide"
+]
+},
+"yuma": {
+"definition": "a member of the North American Indian people of Arizona and adjacent Mexico and California",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yuma"
+]
+},
+"yuman": {
+"definition": "of or relating to the language or culture of the Yuma people",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Yuman"
+]
+},
+"yumas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yuma"
+]
+},
+"yummier": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Delectable",
+"Pleasant-tasting",
+"Toothsome",
+"Scrumptious",
+"Yummy"
+]
+},
+"yummiest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Delectable",
+"Pleasant-tasting",
+"Toothsome",
+"Scrumptious",
+"Yummy"
+]
+},
+"yummy": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Delectable",
+"Pleasant-tasting",
+"Toothsome",
+"Scrumptious",
+"Yummy"
+]
+},
+"yunnan": {
+"definition": "a province of southern China",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yunnan province",
+"Yunnan"
+]
+},
+"yuppie": {
+"definition": "a young upwardly mobile professional individual; a well-paid middle-class professional who works in a city and has a luxurious life style",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yuppie"
+]
+},
+"yuppies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yuppie"
+]
+},
+"yurt": {
+"definition": "a circular domed dwelling that is portable and self-supporting; originally used by nomadic Mongol and Turkic people of central Asia but now used as inexpensive alternative or temporary housing",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Yurt"
+]
+}
 }

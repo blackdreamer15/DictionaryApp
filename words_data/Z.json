@@ -1,41 +1,3166 @@
 {
-    "zany": {
-        "definition": "Amusingly unconventional",
-        "partOfSpeech": "adjective",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "zap": {
-        "definition": "Informal-destroy, move rapidly",
-        "partOfSpeech": "verb",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "zenith": {
-        "definition": "The highest point",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-    
-    "zoom": {
-        "definition": "Move very quickly",
-        "partOfSpeech": "verb",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "zest": {
-        "definition": "Great enthusiasm and energy",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    }
+"z": {
+"definition": "the 26th letter of the Roman alphabet",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Omega",
+"Izzard",
+"Zed",
+"Zee",
+"Ezed"
+]
+},
+"zabaglione": {
+"definition": "light foamy custard-like dessert served hot or chilled",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zabaglione",
+"Sabayon"
+]
+},
+"zabrze": {
+"definition": "an industrial city in southern Poland",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zabrze"
+]
+},
+"zacharias": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Book of zachariah",
+"Zechariah",
+"Zacharias"
+]
+},
+"zaftig": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zaftig",
+"Zoftig",
+"Buxom"
+]
+},
+"zag": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zag",
+"Zigzag",
+"Zig"
+]
+},
+"zaglossus": {
+"definition": "a genus of Tachyglossidae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus zaglossus",
+"Zaglossus"
+]
+},
+"zagreb": {
+"definition": "the capital of Croatia",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zagreb"
+]
+},
+"zags": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zag",
+"Zigzag",
+"Zig"
+]
+},
+"zayin": {
+"definition": "the 7th letter of the Hebrew alphabet",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zayin"
+]
+},
+"zayins": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zayin"
+]
+},
+"zaire": {
+"definition": "the basic unit of money in Zaire",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zaire",
+"Belgian congo",
+"Congo",
+"Democratic republic of the congo"
+]
+},
+"zairean": {
+"definition": "of or relating to or characteristic of Zaire or its people",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zairese",
+"Zairean"
+]
+},
+"zaires": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zaire",
+"Belgian congo",
+"Congo",
+"Democratic republic of the congo"
+]
+},
+"zakat": {
+"definition": "the fourth pillar of Islam is almsgiving as an act of worship",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zakat"
+]
+},
+"zalophus": {
+"definition": "sea lions",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zalophus",
+"Genus zalophus"
+]
+},
+"zama": {
+"definition": "the battle in 202 BC in which Scipio decisively defeated Hannibal at the end of the second Punic War",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zama",
+"Battle of zama"
+]
+},
+"zaman": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zaman",
+"Albizia saman",
+"Zamang",
+"Monkey pod",
+"Saman"
+]
+},
+"zamang": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zaman",
+"Albizia saman",
+"Zamang",
+"Monkey pod",
+"Saman"
+]
+},
+"zambezi": {
+"definition": "an African river; flows into the Indian Ocean",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zambezi",
+"Zambezi river"
+]
+},
+"zambia": {
+"definition": "a republic in central Africa; formerly controlled by Great Britain and called Northern Rhodesia until it gained independence within the commonwealth in 1964",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zambia",
+"Northern rhodesia",
+"Republic of zambia"
+]
+},
+"zambian": {
+"definition": "of or relating to or characteristic of Zambia or its people",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zambian"
+]
+},
+"zambians": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zambian"
+]
+},
+"zamia": {
+"definition": "any of various cycads of the genus Zamia; among the smallest and most verdant cycads",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zamia"
+]
+},
+"zamiaceae": {
+"definition": "a family of cycads often included in the family Cycadaceae: zamias",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family zamiaceae",
+"Zamiaceae",
+"Zamia family"
+]
+},
+"zamias": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zamia"
+]
+},
+"zany": {
+"definition": "a buffoon in one of the old comedies; imitates others for ludicrous effect",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Cockamamie",
+"Wacky",
+"Cuckoo",
+"Goof",
+"Clownlike"
+]
+},
+"zanier": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Silly",
+"Buffoonish",
+"Cockamamy",
+"Zany",
+"Clownlike"
+]
+},
+"zanies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Jackass",
+"Twat",
+"Goof",
+"Zany",
+"Goofball"
+]
+},
+"zaniest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Silly",
+"Buffoonish",
+"Cockamamy",
+"Zany",
+"Clownlike"
+]
+},
+"zannichellia": {
+"definition": "horned pondweed: completely submerged herbs; in some classifications included in Potamogetonaceae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus zannichellia",
+"Zannichellia"
+]
+},
+"zannichelliaceae": {
+"definition": "alternative classification for some genera included in Potamogetonaceae; one species",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family zannichelliaceae",
+"Zannichelliaceae"
+]
+},
+"zantedeschia": {
+"definition": "calla lily",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus zantedeschia",
+"Zantedeschia"
+]
+},
+"zanthoxylum": {
+"definition": "deciduous or evergreen trees or shrubs: prickly ash",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zanthoxylum",
+"Genus zanthoxylum"
+]
+},
+"zanuck": {
+"definition": "United States filmmaker whose works include the first full-length feature film with sound sequences (1902-1979)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zanuck",
+"Darryl zanuck",
+"Darryl francis zanuck"
+]
+},
+"zanzibar": {
+"definition": "an island in the Indian Ocean off the east coast of Africa; part of the United Republic of Tanzania",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zanzibar"
+]
+},
+"zap": {
+"definition": "strike suddenly and with force",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Atomise",
+"Nuke",
+"Atomize",
+"Vaporize",
+"Zap"
+]
+},
+"zapata": {
+"definition": "Mexican revolutionary who led a revolt for agrarian reforms (1879-1919)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Emiliano zapata",
+"Zapata"
+]
+},
+"zapodidae": {
+"definition": "jumping mice",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family zapodidae",
+"Zapodidae"
+]
+},
+"zapotec": {
+"definition": "of or relating to the language or culture of the Zapotec people",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zapotec",
+"Zapotecan"
+]
+},
+"zapotecan": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zapotec",
+"Zapotecan"
+]
+},
+"zapped": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Atomise",
+"Nuke",
+"Atomize",
+"Vaporize",
+"Zap"
+]
+},
+"zapper": {
+"definition": "an electrical device that can injure or kill by means of electric currents",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zapper"
+]
+},
+"zappers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zapper"
+]
+},
+"zapping": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Atomise",
+"Nuke",
+"Atomize",
+"Vaporize",
+"Zap"
+]
+},
+"zaps": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Atomise",
+"Nuke",
+"Atomize",
+"Vaporize",
+"Zap"
+]
+},
+"zapus": {
+"definition": "type genus of the Zapodidae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zapus",
+"Genus zapus"
+]
+},
+"zaragoza": {
+"definition": "an ancient city on the Ebro River in northeastern Spain; formerly the capital of Aragon",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zaragoza",
+"Saragossa"
+]
+},
+"zarathustra": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoroaster",
+"Zarathustra"
+]
+},
+"zarf": {
+"definition": "an ornamental metal cup-shaped holder for a hot coffee cup",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zarf"
+]
+},
+"zarfs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zarf"
+]
+},
+"zaria": {
+"definition": "a city in north central Nigeria; agricultural trading center",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zaria"
+]
+},
+"zarpanit": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Sarpanitu",
+"Zirbanit",
+"Zarpanit"
+]
+},
+"z-axis": {
+"definition": "the third axis in a 3-dimensional coordinate system",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Z-axis"
+]
+},
+"zb": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zbit",
+"Zib",
+"Zettabyte",
+"Zebibyte",
+"Zb"
+]
+},
+"zea": {
+"definition": "corn",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus zea",
+"Zea"
+]
+},
+"zeal": {
+"definition": "excessive fervor to do something or accomplish some end",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Readiness",
+"Eagerness",
+"Zeal",
+"Ardour",
+"Ardor"
+]
+},
+"zealand": {
+"definition": "the largest island of Denmark and the site of Copenhagen",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Sjaelland",
+"Zealand",
+"Seeland"
+]
+},
+"zealander": {
+"definition": "a native or inhabitant of Zealand",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zealander"
+]
+},
+"zealanders": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zealander"
+]
+},
+"zealot": {
+"definition": "a member of an ancient Jewish sect in Judea in the first century who fought to the death against the Romans and who killed or persecuted Jews who collaborated with the Romans",
+"partOfSpeech": "Noun",
+"antonyms": [
+"nonpartisan"
+],
+"synonyms": [
+"Zealot",
+"Drumbeater",
+"Partisan"
+]
+},
+"zealotry": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Fanatism",
+"Zealotry",
+"Fanaticism"
+]
+},
+"zealotries": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Fanatism",
+"Zealotry",
+"Fanaticism"
+]
+},
+"zealots": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"nonpartisan"
+],
+"synonyms": [
+"Zealot",
+"Drumbeater",
+"Partisan"
+]
+},
+"zealous": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Avid",
+"Zealous"
+]
+},
+"zealously": {
+"definition": "in a zealous manner",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Zealously"
+]
+},
+"zeals": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Readiness",
+"Eagerness",
+"Zeal",
+"Ardour",
+"Ardor"
+]
+},
+"zeaxanthin": {
+"definition": "yellow carotenoid (isomeric with lutein and occurs widely with it) that is the main pigment in yellow Indian corn",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zeaxanthin"
+]
+},
+"zebra": {
+"definition": "any of several fleet black-and-white striped African equines",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zebra"
+]
+},
+"zebras": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zebra"
+]
+},
+"zebrass": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zebra"
+]
+},
+"zebrasses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zebra"
+]
+},
+"zebrawood": {
+"definition": "handsomely striped or mottled wood of the zebrawood tree; used especially for cabinetwork",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zebrawood tree",
+"Zebrawood"
+]
+},
+"zebu": {
+"definition": "domesticated ox having a humped back and long horns and a large dewlap; used chiefly as a draft animal in India and east Asia",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zebu"
+]
+},
+"zebus": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zebu"
+]
+},
+"zechariah": {
+"definition": "a Hebrew minor prophet of the late 6th century BC",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Book of zachariah",
+"Zechariah",
+"Zacharias"
+]
+},
+"zed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Z",
+"Izzard",
+"Zed",
+"Zee",
+"Ezed"
+]
+},
+"zeds": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Z",
+"Izzard",
+"Zed",
+"Zee",
+"Ezed"
+]
+},
+"zee": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Z",
+"Izzard",
+"Zed",
+"Zee",
+"Ezed"
+]
+},
+"zeeman": {
+"definition": "Dutch physicist honored for his research on the influence of magnetism on radiation which showed that light is radiated by the motion of charged particles in an atom (1865-1943)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zeeman",
+"Pieter zeeman"
+]
+},
+"zees": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Z",
+"Izzard",
+"Zed",
+"Zee",
+"Ezed"
+]
+},
+"zeidae": {
+"definition": "a family of fish in the order Zeomorphi",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family zeidae",
+"Zeidae"
+]
+},
+"zeitgeist": {
+"definition": "the spirit of the time; the spirit characteristic of an age or generation",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zeitgeist"
+]
+},
+"zeitgeists": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zeitgeist"
+]
+},
+"zen": {
+"definition": "school of Mahayana Buddhism asserting that enlightenment can come through meditation and intuition rather than faith; China and Japan",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Battery-acid",
+"Superman",
+"Loony toons",
+"Pane",
+"Zen"
+]
+},
+"zenaidura": {
+"definition": "mourning doves",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zenaidura",
+"Genus zenaidura"
+]
+},
+"zend": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zend",
+"Avestan"
+]
+},
+"zend-avesta": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Avesta",
+"Zend-avesta"
+]
+},
+"zenith": {
+"definition": "the point above the observer that is directly opposite the nadir on the imaginary sphere against which celestial bodies appear to be projected",
+"partOfSpeech": "Noun",
+"antonyms": [
+"nadir"
+],
+"synonyms": [
+"Zenith"
+]
+},
+"zenithal": {
+"definition": "relating to or located at or near the zenith",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zenithal"
+]
+},
+"zeniths": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"nadir"
+],
+"synonyms": [
+"Zenith"
+]
+},
+"zeno": {
+"definition": "ancient Greek philosopher who formulated paradoxes that defended the belief that motion and change are illusory (circa 495-430 BC)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zeno of citium",
+"Zeno",
+"Zeno of elea"
+]
+},
+"zeolite": {
+"definition": "any of a family of glassy minerals analogous to feldspar containing hydrated aluminum silicates of calcium or sodium or potassium; formed in cavities in lava flows and in plutonic rocks",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zeolite"
+]
+},
+"zeolites": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zeolite"
+]
+},
+"zep": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Hoagie",
+"Hoagy",
+"Italian sandwich",
+"Zep",
+"Wedge"
+]
+},
+"zephaniah": {
+"definition": "a Hebrew minor prophet of the late 7th century BC",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Sophonias",
+"Book of zephaniah",
+"Zephaniah"
+]
+},
+"zephyr": {
+"definition": "(Greek mythology) the Greek god of the west wind",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zephyr",
+"Air",
+"Gentle wind",
+"Breeze"
+]
+},
+"zephyrs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zephyr",
+"Air",
+"Gentle wind",
+"Breeze"
+]
+},
+"zeppelin": {
+"definition": "German inventor who designed and built the first rigid motorized dirigible (1838-1917)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Graf zeppelin",
+"Count ferdinand von zeppelin",
+"Zeppelin"
+]
+},
+"zeppelins": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Graf zeppelin",
+"Count ferdinand von zeppelin",
+"Zeppelin"
+]
+},
+"zero": {
+"definition": "indicating the absence of any or all units under consideration",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Nada",
+"Naught",
+"Goose egg",
+"Cipher",
+"Cypher"
+]
+},
+"zeroed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zero",
+"Zero in"
+]
+},
+"zeroes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Nada",
+"Naught",
+"Goose egg",
+"Cipher",
+"Cypher"
+]
+},
+"zeroing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zero",
+"Zero in"
+]
+},
+"zeros": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Nada",
+"Naught",
+"Goose egg",
+"Cipher",
+"Cypher"
+]
+},
+"zeroth": {
+"definition": "preceding even the first",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zeroth"
+]
+},
+"zest": {
+"definition": "add herbs or spices to",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Tang",
+"Piquance",
+"Gusto",
+"Piquantness",
+"Tanginess"
+]
+},
+"zested": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zest",
+"Spice",
+"Spice up"
+]
+},
+"zestful": {
+"definition": "marked by spirited enjoyment",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zestful",
+"Yeasty",
+"Zesty",
+"Barmy"
+]
+},
+"zestfully": {
+"definition": "with zest",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Zestily",
+"Zestfully"
+]
+},
+"zestfulness": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zest",
+"Zestfulness",
+"Gusto",
+"Relish"
+]
+},
+"zestfulnesses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zest",
+"Zestfulness",
+"Gusto",
+"Relish"
+]
+},
+"zesty": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zestful",
+"Spicy",
+"Piquant",
+"Savoury",
+"Savory"
+]
+},
+"zesting": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zest",
+"Spice",
+"Spice up"
+]
+},
+"zests": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Tang",
+"Piquance",
+"Gusto",
+"Piquantness",
+"Tanginess"
+]
+},
+"zeta": {
+"definition": "the 6th letter of the Greek alphabet",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zeta"
+]
+},
+"zetas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zeta"
+]
+},
+"zetland": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Shetland islands",
+"Shetland",
+"Zetland"
+]
+},
+"zeugma": {
+"definition": "use of a word to govern two or more words though appropriate to only one",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zeugma"
+]
+},
+"zeugmas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zeugma"
+]
+},
+"zeus": {
+"definition": "(Greek mythology) the supreme god of ancient Greek mythology; son of Rhea and Cronus whom he dethroned; husband and brother of Hera; brother of Poseidon and Hades; father of many gods; counterpart of Roman Jupiter",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zeus",
+"Genus zeus"
+]
+},
+"zhukov": {
+"definition": "Soviet general who during World Warr II directed the counteroffensive at Stalingrad and relieved Leningrad and captured Berlin (1896-1974)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zhukov",
+"Georgi zhukov",
+"Georgi konstantinovich zhukov"
+]
+},
+"zydeco": {
+"definition": "music of southern Louisiana that combines French dance melodies with Caribbean music and blues",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zydeco"
+]
+},
+"zydecos": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zydeco"
+]
+},
+"ziegfeld": {
+"definition": "United States theatrical producer noted for a series of extravagant revues known as the Ziegfeld Follies (1869-1932)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Florenz ziegfeld",
+"Flo ziegfeld",
+"Ziegfeld"
+]
+},
+"ziegler": {
+"definition": "German chemist honored for his research on polymers (1898-1973)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Ziegler",
+"Karl waldemar ziegler"
+]
+},
+"zig": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zag",
+"Zigzag",
+"Zig"
+]
+},
+"ziggurat": {
+"definition": "a rectangular tiered temple or terraced mound erected by the ancient Assyrians and Babylonians",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Ziggurat",
+"Zikkurat",
+"Zikurat"
+]
+},
+"ziggurats": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ziggurat",
+"Zikkurat",
+"Zikurat"
+]
+},
+"zygnema": {
+"definition": "type genus of the family Zygnemataceae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zygnema",
+"Genus zygnema"
+]
+},
+"zygnemales": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zygnematales",
+"Order zygnematales",
+"Order zygnemales",
+"Zygnemales"
+]
+},
+"zygnemataceae": {
+"definition": "pond scums: common freshwater algae forming green slimy masses",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zygnemataceae",
+"Family zygnemataceae"
+]
+},
+"zygnematales": {
+"definition": "pond scums; desmids",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zygnematales",
+"Order zygnematales",
+"Order zygnemales",
+"Zygnemales"
+]
+},
+"zygocactus": {
+"definition": "small genus of Brazilian cacti having flat fleshy usually branched joints and showy red or pink flowers followed by red fleshy fruits",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus zygocactus",
+"Zygocactus"
+]
+},
+"zygodactyl": {
+"definition": "(of bird feet) having the first and fourth toes directed backward the second and third forward",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"heterodactyl"
+],
+"synonyms": [
+"Zygodactyl"
+]
+},
+"zygoma": {
+"definition": "the slender arch formed by the temporal process of the cheekbone that bridges to the zygomatic process of the temporal bone",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Arcus zygomaticus",
+"Zygomatic arch",
+"Zygoma"
+]
+},
+"zygomas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Arcus zygomaticus",
+"Zygomatic arch",
+"Zygoma"
+]
+},
+"zygomatic": {
+"definition": "of or relating to the cheek region of the face",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Malar",
+"Zygomatic bone",
+"Cheekbone",
+"Malar bone",
+"Os zygomaticum"
+]
+},
+"zygomycetes": {
+"definition": "class of fungi coextensive with subdivision Zygomycota",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Class zygomycetes",
+"Zygomycetes"
+]
+},
+"zygomorphic": {
+"definition": "capable of division into symmetrical halves by only one longitudinal plane passing through the axis",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"actinomorphic"
+],
+"synonyms": [
+"Zygomorphous",
+"Bilaterally symmetrical",
+"Zygomorphic"
+]
+},
+"zygomorphous": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"actinomorphic"
+],
+"synonyms": [
+"Zygomorphous",
+"Bilaterally symmetrical",
+"Zygomorphic"
+]
+},
+"zygophyllaceae": {
+"definition": "small trees, shrubs, and herbs of warm arid and saline regions; often resinous; some poisonous: genera Zygophyllum, Tribulus, Guaiacum, Larrea",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zygophyllaceae",
+"Bean-caper family",
+"Family zygophyllaceae"
+]
+},
+"zygophyllum": {
+"definition": "usually tropical herbs or shrubs having ill-smelling foliage and flower buds that are used as capers: bean capers",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zygophyllum",
+"Genus zygophyllum"
+]
+},
+"zygoptera": {
+"definition": "damselflies",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Suborder zygoptera",
+"Zygoptera"
+]
+},
+"zygospore": {
+"definition": "a plant spore formed by two similar sexual cells",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zygospore"
+]
+},
+"zygote": {
+"definition": "(genetics) the diploid cell resulting from the union of a haploid spermatozoon and ovum (including the organism that develops from that cell)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Fertilized ovum",
+"Zygote"
+]
+},
+"zygotene": {
+"definition": "the second stage of the prophase of meiosis",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zygotene"
+]
+},
+"zygotenes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zygotene"
+]
+},
+"zygotes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Fertilized ovum",
+"Zygote"
+]
+},
+"zygotic": {
+"definition": "of or relating to a zygote",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zygotic"
+]
+},
+"zigs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zag",
+"Zigzag",
+"Zig"
+]
+},
+"zigzag": {
+"definition": "in a zigzag course or on a zigzag path",
+"partOfSpeech": "Adverb",
+"antonyms": [],
+"synonyms": [
+"Crank",
+"Zag",
+"Zig",
+"Zigzag",
+"Zig-zag"
+]
+},
+"zigzagged": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zigzag",
+"Crank"
+]
+},
+"zigzagging": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zigzag",
+"Crank"
+]
+},
+"zigzags": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zag",
+"Zigzag",
+"Crank",
+"Zig"
+]
+},
+"zikkurat": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ziggurat",
+"Zikkurat",
+"Zikurat"
+]
+},
+"zikkurats": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ziggurat",
+"Zikkurat",
+"Zikurat"
+]
+},
+"zikurat": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ziggurat",
+"Zikkurat",
+"Zikurat"
+]
+},
+"zikurats": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ziggurat",
+"Zikkurat",
+"Zikurat"
+]
+},
+"zilch": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Nada",
+"Naught",
+"Goose egg",
+"Cipher",
+"Cypher"
+]
+},
+"zilches": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Nada",
+"Naught",
+"Goose egg",
+"Cipher",
+"Cypher"
+]
+},
+"zill": {
+"definition": "one of a pair of small metallic cymbals worn on the thumb and middle finger; used in belly dancing in rhythm with the dance",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zill"
+]
+},
+"zillion": {
+"definition": "very large indeterminate number",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Trillion",
+"Billion",
+"Zillion",
+"Gazillion",
+"Jillion"
+]
+},
+"zillions": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Trillion",
+"Billion",
+"Zillion",
+"Gazillion",
+"Jillion"
+]
+},
+"zills": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zill"
+]
+},
+"zymase": {
+"definition": "a complex of enzymes that cause glycolysis; originally found in yeast but also present in higher organisms",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zymase"
+]
+},
+"zymases": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zymase"
+]
+},
+"zimbabwe": {
+"definition": "a landlocked republic in south central Africa formerly called Rhodesia; achieved independence from the United Kingdom in 1980",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Southern rhodesia",
+"Rhodesia",
+"Zimbabwe",
+"Republic of zimbabwe"
+]
+},
+"zimbalist": {
+"definition": "United States violinist (born in Russia) (1889-1985)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zimbalist",
+"Efrem zimbalist"
+]
+},
+"zimmer": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zimmer",
+"Walker",
+"Zimmer frame"
+]
+},
+"zymogen": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zymogen",
+"Proenzyme"
+]
+},
+"zymogens": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zymogen",
+"Proenzyme"
+]
+},
+"zymoid": {
+"definition": "resembling an enzyme",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zymoid"
+]
+},
+"zymolysis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zymosis",
+"Fermenting",
+"Ferment",
+"Fermentation",
+"Zymolysis"
+]
+},
+"zymolytic": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zymolytic",
+"Zymotic"
+]
+},
+"zymology": {
+"definition": "the branch of chemistry concerned with fermentation (as in making wine or brewing or distilling)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zymology",
+"Zymurgy"
+]
+},
+"zymologies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zymology",
+"Zymurgy"
+]
+},
+"zymosis": {
+"definition": "a process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zymosis",
+"Fermenting",
+"Ferment",
+"Fermentation",
+"Zymolysis"
+]
+},
+"zymotic": {
+"definition": "of or relating to or causing fermentation",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zymolytic",
+"Zymotic"
+]
+},
+"zymurgy": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zymology",
+"Zymurgy"
+]
+},
+"zymurgies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zymology",
+"Zymurgy"
+]
+},
+"zinc": {
+"definition": "coat or cover with zinc",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Zn",
+"Atomic number 30",
+"Zinc"
+]
+},
+"zinced": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zinc"
+]
+},
+"zincing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zinc"
+]
+},
+"zincs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zn",
+"Atomic number 30",
+"Zinc"
+]
+},
+"zinfandel": {
+"definition": "small black grape grown chiefly in California; transplanted from Europe",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zinfandel"
+]
+},
+"zing": {
+"definition": "a brief high-pitched buzzing or humming sound",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Pizzazz",
+"Oomph",
+"Dynamism",
+"Zing",
+"Pizzaz"
+]
+},
+"zinger": {
+"definition": "a striking or amusing or caustic remark",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zinger"
+]
+},
+"zingers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zinger"
+]
+},
+"zingiber": {
+"definition": "tropical Asiatic and Polynesian perennial plants: ginger",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus zingiber",
+"Zingiber"
+]
+},
+"zingiberaceae": {
+"definition": "a family of tropical monocotyledonous plants of order Musales",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zingiberaceae",
+"Family zingiberaceae",
+"Ginger family"
+]
+},
+"zings": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Pizzazz",
+"Oomph",
+"Dynamism",
+"Zing",
+"Pizzaz"
+]
+},
+"zinjanthropus": {
+"definition": "genus to which Australopithecus boisei was formerly assigned",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zinjanthropus",
+"Genus zinjanthropus"
+]
+},
+"zinkenite": {
+"definition": "a steel grey metallic mineral (a sulphide of lead and antimony)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zinkenite"
+]
+},
+"zinnia": {
+"definition": "any of various plants of the genus Zinnia cultivated for their variously and brightly colored flower heads",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Old maid flower",
+"Zinnia",
+"Old maid"
+]
+},
+"zinnias": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Old maid flower",
+"Zinnia",
+"Old maid"
+]
+},
+"zinnwaldite": {
+"definition": "a mica containing iron and lithium",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zinnwaldite"
+]
+},
+"zinsser": {
+"definition": "United States bacteriologist who helped develop immunization against typhus fever (1878-1940)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zinsser",
+"Hans zinsser"
+]
+},
+"zinzendorf": {
+"definition": "German theologian (1700-1760)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Count nikolaus ludwig von zinzendorf",
+"Zinzendorf"
+]
+},
+"zion": {
+"definition": "originally a stronghold captured by David (the 2nd king of the Israelites); above it was built a temple and later the name extended to the whole hill; finally it became a synonym for the city of Jerusalem",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Utopia",
+"Sion",
+"Yisrael",
+"Zion",
+"Israel"
+]
+},
+"zionism": {
+"definition": "a policy for establishing and developing a national homeland for Jews in Palestine",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zionism",
+"Zionist movement"
+]
+},
+"zionist": {
+"definition": "relating to or characteristic of Zionism",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zionist"
+]
+},
+"zionists": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zionist"
+]
+},
+"zip": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unzip"
+],
+"synonyms": [
+"Nada",
+"Zip fastener",
+"Speed",
+"Aught",
+"Nix"
+]
+},
+"ziphiidae": {
+"definition": "beaked whales; in some especially former classifications included in the family Physeteridae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family hyperodontidae",
+"Ziphiidae",
+"Family ziphiidae",
+"Hyperodontidae"
+]
+},
+"zipped": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unzip"
+],
+"synonyms": [
+"Zip up",
+"Speed",
+"Zip",
+"Zipper",
+"Hurry"
+]
+},
+"zipper": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unzip"
+],
+"synonyms": [
+"Zip fastener",
+"Zip up",
+"Slide fastener",
+"Zip",
+"Zipper"
+]
+},
+"zippered": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unzip"
+],
+"synonyms": [
+"Zip",
+"Zipper",
+"Zip up"
+]
+},
+"zippering": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unzip"
+],
+"synonyms": [
+"Zip",
+"Zipper",
+"Zip up"
+]
+},
+"zippers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unzip"
+],
+"synonyms": [
+"Zip fastener",
+"Zip up",
+"Slide fastener",
+"Zip",
+"Zipper"
+]
+},
+"zippy": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Merry",
+"Snappy",
+"Bouncing",
+"Spirited",
+"Rattling"
+]
+},
+"zippier": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Merry",
+"Snappy",
+"Bouncing",
+"Spirited",
+"Rattling"
+]
+},
+"zippiest": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Merry",
+"Snappy",
+"Bouncing",
+"Spirited",
+"Rattling"
+]
+},
+"zipping": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unzip"
+],
+"synonyms": [
+"Zip up",
+"Speed",
+"Zip",
+"Zipper",
+"Hurry"
+]
+},
+"zips": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"unzip"
+],
+"synonyms": [
+"Nada",
+"Zip fastener",
+"Speed",
+"Aught",
+"Nix"
+]
+},
+"zirbanit": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Sarpanitu",
+"Zirbanit",
+"Zarpanit"
+]
+},
+"zircon": {
+"definition": "a common mineral occurring in small crystals; chief source of zirconium; used as a refractory when opaque and as a gem when transparent",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zirconium silicate",
+"Zircon"
+]
+},
+"zirconia": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zirconia",
+"Zirconium oxide",
+"Zirconium dioxide"
+]
+},
+"zirconias": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zirconia",
+"Zirconium oxide",
+"Zirconium dioxide"
+]
+},
+"zirconium": {
+"definition": "a lustrous grey strong metallic element resembling titanium; it is used in nuclear reactors as a neutron absorber; it occurs in baddeleyite but is obtained chiefly from zircon",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Atomic number 40",
+"Zr",
+"Zirconium"
+]
+},
+"zirconiums": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Atomic number 40",
+"Zr",
+"Zirconium"
+]
+},
+"zircons": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zirconium silicate",
+"Zircon"
+]
+},
+"zyrian": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zyrian",
+"Komi"
+]
+},
+"zit": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zit",
+"Hickey",
+"Pimple"
+]
+},
+"zither": {
+"definition": "a musical stringed instrument with strings stretched over a flat sounding board; it is laid flat and played with a plectrum and with fingers",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Cither",
+"Zithern",
+"Zither"
+]
+},
+"zithern": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cither",
+"Zithern",
+"Zither"
+]
+},
+"zitherns": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cither",
+"Zithern",
+"Zither"
+]
+},
+"zithers": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Cither",
+"Zithern",
+"Zither"
+]
+},
+"ziti": {
+"definition": "medium-sized tubular pasta in short pieces",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Ziti"
+]
+},
+"zitis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ziti"
+]
+},
+"zits": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zit",
+"Hickey",
+"Pimple"
+]
+},
+"zizania": {
+"definition": "wild rice",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus zizania",
+"Zizania"
+]
+},
+"zizz": {
+"definition": "a buzzing or whizzing sound",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zizz"
+]
+},
+"zloty": {
+"definition": "the basic unit of money in Poland",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zloty"
+]
+},
+"zloties": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zloty"
+]
+},
+"zlotys": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zloty"
+]
+},
+"zn": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zn",
+"Atomic number 30",
+"Zinc"
+]
+},
+"zoanthropy": {
+"definition": "the delusion that you have assumed the form of an animal",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoanthropy"
+]
+},
+"zoarces": {
+"definition": "type genus of the Zoarcidae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoarces",
+"Genus zoarces"
+]
+},
+"zoarcidae": {
+"definition": "eelpouts",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family zoarcidae",
+"Zoarcidae"
+]
+},
+"zodiac": {
+"definition": "a belt-shaped region in the heavens on either side to the ecliptic; divided into 12 constellations or signs for astrological purposes",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zodiac"
+]
+},
+"zodiacal": {
+"definition": "relating to or included in the zodiac",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zodiacal"
+]
+},
+"zodiacs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zodiac"
+]
+},
+"zoftig": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zaftig",
+"Zoftig",
+"Buxom"
+]
+},
+"zoic": {
+"definition": "pertaining to animals or animal life or action",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zoic"
+]
+},
+"zoysia": {
+"definition": "any of several creeping grasses of the genus Zoysia",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoysia"
+]
+},
+"zoysias": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoysia"
+]
+},
+"zola": {
+"definition": "French novelist and critic; defender of Dreyfus (1840-1902)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zola",
+"Emile zola"
+]
+},
+"zolaesque": {
+"definition": "in the manner of Emile Zola",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zolaesque"
+]
+},
+"zomba": {
+"definition": "a city in southern Malawi; was the capital until 1971",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zomba"
+]
+},
+"zombi": {
+"definition": "(voodooism) a spirit or supernatural force that reanimates a dead body",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Living dead",
+"Zombie spirit",
+"Zombi",
+"Snake god",
+"Zombi spirit"
+]
+},
+"zombie": {
+"definition": "several kinds of rum with fruit juice and usually apricot liqueur",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Living dead",
+"Zombie spirit",
+"Zombi",
+"Snake god",
+"Zombi spirit"
+]
+},
+"zombies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Living dead",
+"Zombie spirit",
+"Zombi",
+"Snake god",
+"Zombi spirit"
+]
+},
+"zombis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Living dead",
+"Zombie spirit",
+"Zombi",
+"Snake god",
+"Zombi spirit"
+]
+},
+"zona": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zone",
+"Zona"
+]
+},
+"zonal": {
+"definition": "relating to or of the nature of a zone",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"azonal"
+],
+"synonyms": [
+"Zonary",
+"Zonal"
+]
+},
+"zonary": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zonary",
+"Zonal"
+]
+},
+"zone": {
+"definition": "regulate housing in; of certain areas of towns",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Zona",
+"District",
+"Zone",
+"Partition",
+"Geographical zone"
+]
+},
+"zoned": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"District",
+"Zone",
+"Partition"
+]
+},
+"zones": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zona",
+"District",
+"Zone",
+"Partition",
+"Geographical zone"
+]
+},
+"zoning": {
+"definition": "dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoning",
+"Zone",
+"District",
+"Partition"
+]
+},
+"zonotrichia": {
+"definition": "large New World sparrows",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus zonotrichia",
+"Zonotrichia"
+]
+},
+"zonula": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zonula",
+"Zonule"
+]
+},
+"zonulas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zonula",
+"Zonule"
+]
+},
+"zonule": {
+"definition": "small beltlike zone",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zonula",
+"Zonule"
+]
+},
+"zonules": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zonula",
+"Zonule"
+]
+},
+"zoo": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoological garden",
+"Menagerie",
+"Zoo"
+]
+},
+"zooerastia": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Bestiality",
+"Zooerastia",
+"Zooerasty"
+]
+},
+"zooflagellate": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zooflagellate",
+"Zoomastigote"
+]
+},
+"zooid": {
+"definition": "one of the distinct individuals forming a colonial animal such as a bryozoan or hydrozoan",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zooid"
+]
+},
+"zooids": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zooid"
+]
+},
+"zoolatry": {
+"definition": "the worship of animals",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoolatry",
+"Animal-worship"
+]
+},
+"zoolatries": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoolatry",
+"Animal-worship"
+]
+},
+"zoology": {
+"definition": "the branch of biology that studies animals",
+"partOfSpeech": "Noun",
+"antonyms": [
+"flora"
+],
+"synonyms": [
+"Zoology",
+"Fauna",
+"Zoological science"
+]
+},
+"zoological": {
+"definition": "concerning the study of animals and their classification and properties",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zoological"
+]
+},
+"zoologies": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"flora"
+],
+"synonyms": [
+"Zoology",
+"Fauna",
+"Zoological science"
+]
+},
+"zoologist": {
+"definition": "a specialist in the branch of biology dealing with animals",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Animal scientist",
+"Zoologist"
+]
+},
+"zoologists": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Animal scientist",
+"Zoologist"
+]
+},
+"zoom": {
+"definition": "move along very quickly",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Soar up",
+"Rapid climb",
+"Soar",
+"Rapid growth",
+"Soar upwards"
+]
+},
+"zoomastigina": {
+"definition": "in some classifications considered a phylum of the kingdom Protista; holozoic or saprozoic flagellates",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Subclass zoomastigina",
+"Zoomastigina"
+]
+},
+"zoomed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Soar up",
+"Soar",
+"Soar upwards",
+"Zoom along",
+"Whizz along"
+]
+},
+"zooming": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Soar up",
+"Soar",
+"Soar upwards",
+"Zoom along",
+"Whizz along"
+]
+},
+"zoomorphism": {
+"definition": "the attribution of animal forms or qualities to a god",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoomorphism"
+]
+},
+"zooms": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Soar up",
+"Rapid climb",
+"Soar",
+"Rapid growth",
+"Soar upwards"
+]
+},
+"zoonoses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoonosis",
+"Zoonotic disease"
+]
+},
+"zoonosis": {
+"definition": "an animal disease that can be transmitted to humans",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoonosis",
+"Zoonotic disease"
+]
+},
+"zoonotic": {
+"definition": "of or relating to or constituting zoonosis",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zoonotic"
+]
+},
+"zoophagous": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Meat-eating",
+"Flesh-eating",
+"Zoophagous"
+]
+},
+"zoophilia": {
+"definition": "a sexual attraction to animals",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoophilia",
+"Zoophilism"
+]
+},
+"zoophilism": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoophilia",
+"Zoophilism"
+]
+},
+"zoophyte": {
+"definition": "any of various invertebrate animals resembling a plant such as a sea anemone or coral or sponge",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoophyte"
+]
+},
+"zoophytes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoophyte"
+]
+},
+"zoophobia": {
+"definition": "a morbid fear of animals",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoophobia"
+]
+},
+"zooplankton": {
+"definition": "animal constituent of plankton; mainly small crustaceans and fish larvae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zooplankton"
+]
+},
+"zoopsia": {
+"definition": "visual hallucination of animals; sometimes occurring in delirium tremens",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoopsia"
+]
+},
+"zoos": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoological garden",
+"Menagerie",
+"Zoo"
+]
+},
+"zoospore": {
+"definition": "an asexual spore of some algae and fungi that moves by means of flagella",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoospore"
+]
+},
+"zoospores": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoospore"
+]
+},
+"zootoxin": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Animal toxin",
+"Zootoxin"
+]
+},
+"zori": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Pusher",
+"Zori"
+]
+},
+"zoril": {
+"definition": "muishond of northern Africa",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoril",
+"Ictonyx frenata"
+]
+},
+"zorils": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoril",
+"Ictonyx frenata"
+]
+},
+"zoris": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Pusher",
+"Zori"
+]
+},
+"zoroaster": {
+"definition": "Persian prophet who founded Zoroastrianism (circa 628-551 BC)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoroaster",
+"Zarathustra"
+]
+},
+"zoroastrian": {
+"definition": "of or pertaining to Zoroaster or the religion he founded",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Zoroastrian"
+]
+},
+"zoroastrianism": {
+"definition": "system of religion founded in Persia in the 6th century BC by Zoroaster; set forth in the Zend-Avesta; based on concept of struggle between light (good) and dark (evil)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zoroastrianism",
+"Mazdaism"
+]
+},
+"zoroastrians": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zoroastrian"
+]
+},
+"zoster": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Shingles",
+"Herpes zoster",
+"Zoster"
+]
+},
+"zostera": {
+"definition": "(or in some classifications family Zosteraceae) small genus of widely distributed marine plants",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zostera",
+"Genus zostera"
+]
+},
+"zosteraceae": {
+"definition": "used in some classifications: essentially equivalent to Potamogetonaceae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Eelgrass family",
+"Zosteraceae",
+"Family zosteraceae"
+]
+},
+"zosters": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Shingles",
+"Herpes zoster",
+"Zoster"
+]
+},
+"zr": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Atomic number 40",
+"Zr",
+"Zirconium"
+]
+},
+"zs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Omega",
+"Z",
+"Izzard",
+"Zed",
+"Zee"
+]
+},
+"zsigmondy": {
+"definition": "German chemist (born in Austria) honored for his research on colloidal solutions (1865-1929)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zsigmondy",
+"Richard adolph zsigmondy"
+]
+},
+"zubird": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zubird",
+"Zu"
+]
+},
+"zucchini": {
+"definition": "marrow squash plant whose fruit are eaten when small",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Courgette",
+"Zucchini"
+]
+},
+"zucchinis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Courgette",
+"Zucchini"
+]
+},
+"zulu": {
+"definition": "a member of the tall Negroid people of eastern South Africa; some live in KwaZulu-Natal under the traditional clan system but many now work in the cities",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zulu"
+]
+},
+"zulus": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zulu"
+]
+},
+"zuni": {
+"definition": "a member of the Pueblo people living in western New Mexico",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zuni"
+]
+},
+"zunis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Zuni"
+]
+},
+"zurich": {
+"definition": "the largest city in Switzerland; located in the northern part of the country",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zurich"
+]
+},
+"zurvan": {
+"definition": "the Zoroastrian god of time",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Zurvan"
+]
+},
+"zweig": {
+"definition": "Austrian writer (1881-1942)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Stefan zweig",
+"Zweig"
+]
+},
+"zwieback": {
+"definition": "slice of sweet raised bread baked again until it is brown and hard and crisp",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Rusk",
+"Brussels biscuit",
+"Zwieback",
+"Twice-baked bread"
+]
+},
+"zwiebacks": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Rusk",
+"Brussels biscuit",
+"Zwieback",
+"Twice-baked bread"
+]
+},
+"zwingli": {
+"definition": "Swiss theologian whose sermons began the Reformation in Switzerland (1484-1531)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Huldreich zwingli",
+"Ulrich zwingli",
+"Zwingli"
+]
+},
+"zworykin": {
+"definition": "United States physicist who invented the iconoscope (1889-1982)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Vladimir kosma zworykin",
+"Zworykin"
+]
+}
 }

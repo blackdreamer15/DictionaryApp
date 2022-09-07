@@ -1,138 +1,1041 @@
 {
-    "xenophobia": {
-        "definition": "Dislike or fear of people from other countries",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xenas": {
-        "definition": "confident, strong woman",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "x-factor": {
-        "definition": "noteworthy quality or talent",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-    
-    "xanthic": {
-        "definition": "having a yellow color",
-        "partOfSpeech": "adjective",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xenagogue": {
-        "definition": "acting as a guide; guiding someone",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-    
-    "xenial": {
-        "definition": "being nice or friendly to foreign visitors",
-        "partOfSpeech": "adjective",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xenismos": {
-        "definition": "offering meal (ritual)",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xenodocheionology": {
-        "definition": "hotel and inn lore",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xenodochy": {
-        "definition": "receiving of strangers",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xenolalia": {
-        "definition": "speaking a language you never learned",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xenomania": {
-        "definition": "the pleasure of meeting strangers",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xesturgy": {
-        "definition": "polished objects",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xoanon": {
-        "definition": "primitive wood statue",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xper": {
-        "definition": "someone that is an extreme programmer",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xylographic": {
-        "definition": "art of engraving wood",
-        "partOfSpeech": "adjective",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xylotomous": {
-        "definition": "cut or bored into wood",
-        "partOfSpeech": "adjective",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    },
-
-    "xystus": {
-        "definition": "open portico",
-        "partOfSpeech": "noun",
-        "synonyms": [],
-        "antonyms": [],
-        "examples": []
-    }
-
+"x": {
+"definition": "the 24th letter of the Roman alphabet",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Tenner",
+"Adam",
+"Ecstasy",
+"Xtc",
+"Disco biscuit"
+]
+},
+"xanthate": {
+"definition": "a salt or ester of xanthic acid",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xanthate"
+]
+},
+"xanthates": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xanthate"
+]
+},
+"xanthelasma": {
+"definition": "xanthoma of the eyelids; occurs chiefly in the elderly",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xanthelasma"
+]
+},
+"xanthine": {
+"definition": "crystalline oxidation product of the metabolism of nucleoproteins; precursor of uric acid; found in many organs and in urine",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xanthine"
+]
+},
+"xanthines": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xanthine"
+]
+},
+"xanthium": {
+"definition": "coarse herbs having small heads of greenish flowers followed by burrs with hooked bristles",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus xanthium",
+"Xanthium"
+]
+},
+"xanthoma": {
+"definition": "a skin problem marked by the development (on the eyelids and neck and back) of irregular yellow nodules; sometimes attributable to disturbances of cholesterol metabolism",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xanthoma"
+]
+},
+"xanthomas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xanthoma"
+]
+},
+"xanthomatosis": {
+"definition": "widespread xanthomas (especially on elbows and knees); often associated with a disorder of lipid metabolism",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xanthomatosis",
+"Cholesterosis cutis",
+"Xanthoma multiplex",
+"Lipid granulomatosis",
+"Lipoid granulomatosis"
+]
+},
+"xanthomonas": {
+"definition": "a genus of bacteria similar to Pseudomonas but producing a yellow pigment that is not soluble in water",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus xanthomonas",
+"Xanthomonas"
+]
+},
+"xanthophyceae": {
+"definition": "yellow-green algae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Class xanthophyceae",
+"Xanthophyceae"
+]
+},
+"xanthophyl": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xanthophyll",
+"Xanthophyl",
+"Lutein"
+]
+},
+"xanthophyll": {
+"definition": "yellow carotenoid pigments in plants and animal fats and egg yolks",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xanthophyll",
+"Xanthophyl",
+"Lutein"
+]
+},
+"xanthopsia": {
+"definition": "visual defect in which objects appear to have a yellowish hue; sometimes occurs in cases of jaundice",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xanthopsia"
+]
+},
+"xanthosis": {
+"definition": "an abnormal yellow discoloration of the skin",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xanthosis"
+]
+},
+"xanthosoma": {
+"definition": "tropical American tuberous perennials",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus xanthosoma",
+"Xanthosoma"
+]
+},
+"xanthous": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Yellow",
+"Xanthous",
+"Yellowish"
+]
+},
+"xavier": {
+"definition": "Spanish missionary and Jesuit who establish missionaries in Japan and Ceylon and the East Indies (1506-1552)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xavier",
+"Saint francis xavier"
+]
+},
+"x-axis": {
+"definition": "the horizontal axis in a plane coordinate system",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"X-axis"
+]
+},
+"xc": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Ninety",
+"90",
+"Xc"
+]
+},
+"xcl": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"190",
+"One hundred ninety",
+"Xcl"
+]
+},
+"xe": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xenon",
+"Xe",
+"Atomic number 54"
+]
+},
+"xenarthra": {
+"definition": "armadillos; American anteaters; sloths",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Suborder xenarthra",
+"Xenarthra"
+]
+},
+"xenicidae": {
+"definition": "alternative names for the family comprising the New Zealand wrens",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family xenicidae",
+"Xenicidae",
+"Family acanthisittidae",
+"Acanthisittidae"
+]
+},
+"xenicus": {
+"definition": "type genus for the Xenicidae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xenicus",
+"Genus xenicus"
+]
+},
+"xenogeneic": {
+"definition": "denoting or relating to cells or tissues from individuals belonging to different species",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"allogeneic"
+],
+"synonyms": [
+"Xenogeneic"
+]
+},
+"xenogenesis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Heterogenesis",
+"Alternation of generations",
+"Xenogenesis"
+]
+},
+"xenograft": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xenograft",
+"Heterograft"
+]
+},
+"xenolith": {
+"definition": "(geology) a piece of rock of different origin from the igneous rock in which it is embedded",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xenolith"
+]
+},
+"xenoliths": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xenolith"
+]
+},
+"xenon": {
+"definition": "a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xenon",
+"Xe",
+"Atomic number 54"
+]
+},
+"xenons": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xenon",
+"Xe",
+"Atomic number 54"
+]
+},
+"xenophanes": {
+"definition": "Greek philosopher (560-478 BC)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xenophanes"
+]
+},
+"xenophobia": {
+"definition": "a fear of foreigners or strangers",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xenophobia"
+]
+},
+"xenophobic": {
+"definition": "suffering from xenophobia; having abnormal fear or hatred of the strange or foreign",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Xenophobic"
+]
+},
+"xenophon": {
+"definition": "Greek general and historian; student of Socrates (430-355 BC)",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xenophon"
+]
+},
+"xenopodidae": {
+"definition": "in some classifications the family of the genus Xenopus which is otherwise included in the family Pipidae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family xenopodidae",
+"Xenopodidae"
+]
+},
+"xenopus": {
+"definition": "an African clawed frog; in some classifications made the type genus of a separate family Xenopodidae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus xenopus",
+"Xenopus"
+]
+},
+"xenosauridae": {
+"definition": "monotypic family of Mexican lizards",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family xenosauridae",
+"Xenosauridae"
+]
+},
+"xenosaurus": {
+"definition": "type and sole genus of Xenosauridae: slender-bodied Mexican lizards having the upper surface covered with tiny granules and tubercles",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus xenosaurus",
+"Xenosaurus"
+]
+},
+"xenotime": {
+"definition": "a brown-to-yellow mineral that is a phosphate of yttrium in crystalline form",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xenotime"
+]
+},
+"xeranthemum": {
+"definition": "any plant of the genus Xeranthemum native to southern Europe having chaffy or silvery flower heads with purplish tubular flowers",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xeranthemum"
+]
+},
+"xeric": {
+"definition": "being deficient in moisture",
+"partOfSpeech": "Adjective",
+"antonyms": [
+"hydric"
+],
+"synonyms": [
+"Xeric"
+]
+},
+"xeroderma": {
+"definition": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xerodermia",
+"Xeroderma"
+]
+},
+"xerodermia": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xerodermia",
+"Xeroderma"
+]
+},
+"xerography": {
+"definition": "forming an image by the action of light on a specially coated charged plate; the latent image is developed with powders that adhere only to electrically charged areas",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xerography"
+]
+},
+"xerographic": {
+"definition": "of or relating to xerography",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Xerographic"
+]
+},
+"xeroma": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xeroma",
+"Xerophthalmus",
+"Conjunctivitis arida",
+"Xerophthalmia"
+]
+},
+"xerophile": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xerophyte",
+"Xerophytic plant",
+"Xerophile",
+"Xerophilous plant",
+"Desert plant"
+]
+},
+"xerophyllum": {
+"definition": "small genus of North American herbs having grasslike basal leaves: squaw grass; sometimes placed in family Melanthiaceae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus xerophyllum",
+"Xerophyllum"
+]
+},
+"xerophyte": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xerophyte",
+"Xerophytic plant",
+"Xerophile",
+"Xerophilous plant",
+"Desert plant"
+]
+},
+"xerophytic": {
+"definition": "adapted to a xeric (or dry) environment",
+"partOfSpeech": "Adjective",
+"antonyms": [],
+"synonyms": [
+"Xerophytic"
+]
+},
+"xerophthalmia": {
+"definition": "abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xeroma",
+"Xerophthalmus",
+"Conjunctivitis arida",
+"Xerophthalmia"
+]
+},
+"xerostomia": {
+"definition": "abnormal dryness of the mouth resulting from decreased secretion of saliva",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Dry mouth",
+"Xerostomia"
+]
+},
+"xerotes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [
+"wetness"
+],
+"synonyms": [
+"Dryness",
+"Waterlessness",
+"Xerotes"
+]
+},
+"xerox": {
+"definition": "a copy made by a xerographic printer",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xerox copy",
+"Run off",
+"Xerographic copier",
+"Photocopy",
+"Xerox machine"
+]
+},
+"xeroxed": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Photocopy",
+"Run off",
+"Xerox"
+]
+},
+"xeroxes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xerox copy",
+"Run off",
+"Xerographic copier",
+"Photocopy",
+"Xerox machine"
+]
+},
+"xeroxing": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Photocopy",
+"Run off",
+"Xerox"
+]
+},
+"xhosa": {
+"definition": "a member of the Negroid people of southern South Africa",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xhosa"
+]
+},
+"xi": {
+"definition": "the 14th letter of the Greek alphabet",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xi",
+"11",
+"Eleven"
+]
+},
+"xian": {
+"definition": "a city of central China; capital of ancient Chinese empire 221-206 BC",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Changan",
+"Xian",
+"Sian",
+"Singan",
+"Hsian"
+]
+},
+"xii": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Dozen",
+"12",
+"Xii",
+"Twelve"
+]
+},
+"xiii": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Thirteen",
+"13",
+"Xiii",
+"Baker's dozen",
+"Long dozen"
+]
+},
+"xylaria": {
+"definition": "type genus of Xylariaceae; fungi with perithecia in the upper part of erect black woody stromata",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xylaria",
+"Genus xylaria"
+]
+},
+"xylariaceae": {
+"definition": "family of fungi characterized by dark brown to black spores",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xylariaceae",
+"Family xylariaceae"
+]
+},
+"xylem": {
+"definition": "the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xylem"
+]
+},
+"xylems": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xylem"
+]
+},
+"xylene": {
+"definition": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xylol",
+"Xylene"
+]
+},
+"xylenes": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xylol",
+"Xylene"
+]
+},
+"xylocopa": {
+"definition": "carpenter bees",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xylocopa",
+"Genus xylocopa"
+]
+},
+"xylol": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xylol",
+"Xylene"
+]
+},
+"xylols": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xylol",
+"Xylene"
+]
+},
+"xylophone": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xylophone",
+"Marimba"
+]
+},
+"xylophones": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xylophone",
+"Marimba"
+]
+},
+"xylophonist": {
+"definition": "someone who plays a xylophone",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xylophonist"
+]
+},
+"xylophonists": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xylophonist"
+]
+},
+"xylopia": {
+"definition": "tropical evergreen trees or shrubs; chiefly African",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xylopia",
+"Genus xylopia"
+]
+},
+"xylose": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xylose",
+"Wood sugar"
+]
+},
+"xyloses": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xylose",
+"Wood sugar"
+]
+},
+"xylosma": {
+"definition": "shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of China",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xylosma congestum",
+"Xylosma"
+]
+},
+"xiphias": {
+"definition": "type genus of the Xiphiidae",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus xiphias",
+"Xiphias"
+]
+},
+"xiphiidae": {
+"definition": "comprising the common swordfishes",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family xiphiidae",
+"Xiphiidae"
+]
+},
+"xiphosura": {
+"definition": "horseshoe crabs and extinct forms",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Order xiphosura",
+"Xiphosura"
+]
+},
+"xyridaceae": {
+"definition": "plants of tropical to temperate regions; usually in wet places",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Family xyridaceae",
+"Xyridaceae",
+"Yellow-eyed grass family"
+]
+},
+"xyridales": {
+"definition": "an order of monocotyledonous herbs",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xyridales",
+"Order commelinales",
+"Order xyridales",
+"Commelinales"
+]
+},
+"xyris": {
+"definition": "chiefly American marsh plants, having usually yellow flowers",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Genus xyris",
+"Xyris"
+]
+},
+"xis": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xi",
+"11",
+"Eleven"
+]
+},
+"xiv": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Fourteen",
+"14",
+"Xiv"
+]
+},
+"xix": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xix",
+"Nineteen",
+"19"
+]
+},
+"xl": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Twoscore",
+"Xl",
+"Forty",
+"40"
+]
+},
+"xmas": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xmas",
+"Christmas",
+"Christmas day",
+"Dec 25"
+]
+},
+"xmases": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xmas",
+"Christmas",
+"Christmas day",
+"Dec 25"
+]
+},
+"x-radiation": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Roentgen ray",
+"X ray",
+"X-radiation",
+"X-ray",
+"X-raying"
+]
+},
+"x-ray": {
+"definition": "examine by taking x-rays",
+"partOfSpeech": "Verb",
+"antonyms": [],
+"synonyms": [
+"Roentgen ray",
+"X-ray picture",
+"X ray",
+"X-radiation",
+"X-ray"
+]
+},
+"xs": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Tenner",
+"Adam",
+"Ecstasy",
+"Xtc",
+"Disco biscuit"
+]
+},
+"xt": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xt",
+"Crosstalk"
+]
+},
+"xtc": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Adam",
+"Ecstasy",
+"Xtc",
+"Disco biscuit",
+"Hug drug"
+]
+},
+"xvi": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Sixteen",
+"Xvi",
+"16"
+]
+},
+"xvii": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Seventeen",
+"Xvii",
+"17"
+]
+},
+"xviii": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xviii",
+"18",
+"Eighteen"
+]
+},
+"xx": {
+"definition": "(genetics) normal complement of sex chromosomes in a female",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xx",
+"Twenty",
+"20"
+]
+},
+"xxi": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Twenty-one",
+"Xxi",
+"21"
+]
+},
+"xxii": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xxii",
+"Twenty-two",
+"22"
+]
+},
+"xxiii": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xxiii",
+"23",
+"Twenty-three"
+]
+},
+"xxiv": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Twenty-four",
+"Two dozen",
+"24",
+"Xxiv"
+]
+},
+"xxv": {
+"definition": {},
+"partOfSpeech": {},
+"antonyms": [],
+"synonyms": [
+"Xxv",
+"Twenty-five",
+"25"
+]
+},
+"xxx": {
+"definition": "(genetics) abnormal complement of three X chromosomes in a female",
+"partOfSpeech": "Noun",
+"antonyms": [],
+"synonyms": [
+"Xxx",
+"Thirty",
+"30"
+]
+}
 }
