@@ -1,7 +1,6 @@
 import json
 import time
-from difflib import get_close_matches
-
+import difflib
 
 class DictionaryJSON():
 
@@ -21,7 +20,19 @@ class DictionaryJSON():
                 word_info = dictionary_data[word]
                 time.sleep(1)
             else:
-                word_info = "NO MATCHING WORD WAS FOUND \n INVALID INPUT"
+                # word = "learning"
+                n = 5
+                cutoff = 0.7
+
+                close_matches = difflib.get_close_matches(word, 
+                                dictionary_data, n, cutoff)
+
+                print(close_matches)
+                if close_matches== []:
+                    word_info = f"NO MATCHING WORD WAS FOUND \n INVALID INPUTS"
+                else:
+                    word_info=", ".join(close_matches).title()
+                    word_info = f"NO MATCHING WORD WAS FOUND \n TRY THESE \n  {word_info}"
         else:
             try:
                 with open(directory) as dir:
