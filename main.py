@@ -103,12 +103,15 @@ class MeaningPage(Frame):
         if type(word_data) is dict:
             self.meaning = Text(self, font=("arial", 12), bd=1)
             try:
-                word_meaning = word_data["definition"]
+                if len(word_data["definition"])> 0:
+                    word_meaning = word_data["definition"]
+                else:
+                    word_meaning= " "
             except:
                 word_meaning= " "
             
             try:
-                part_of_speech = word_data['partOfSpeech']
+                part_of_speech = word_data['partOfSpeech'].title()
             except:
                 part_of_speech= " "
             
@@ -122,18 +125,18 @@ class MeaningPage(Frame):
             except:
                 word_antonyms= "  "
             
-            self.meaning.insert('end', word.title() + '\n')
-            self.meaning.insert('end', '(' + part_of_speech.title() + ')\n\n')
+            self.meaning.insert('end', f"{word.title()} \n")
+            self.meaning.insert('end', f"{part_of_speech}  \n\n")
             self.meaning.insert('end', 'Definition:\n')
-            self.meaning.insert('end', word_meaning + '\n\n')
+            self.meaning.insert('end', f"{word_meaning} \n\n")
 
             if word_synonyms:
                 self.meaning.insert('end', 'Synonym(s):\n')
-                self.meaning.insert('end', word_synonyms + '\n\n')
+                self.meaning.insert('end', f"{word_synonyms} \n\n")
 
             if word_antonyms:
                 self.meaning.insert('end', 'Antonym(s):\n')
-                self.meaning.insert('end', word_antonyms + '\n\n')
+                self.meaning.insert('end', f"{word_antonyms} \n\n")
             self.meaning.config(state="disabled")
 
             self.meaning.tag_add('word', '1.0', '1.end')
