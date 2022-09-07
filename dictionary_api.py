@@ -22,12 +22,9 @@ class DictionaryAPI():
                 # print("\n"+data)
                 word_info = data['results'][0]
             elif response.status_code == 404:
-                word_info = "NO MATCHING WORD WAS FOUND \n INVALID INPUT"
+                word_info = "NO MATCHING WORD WAS FOUND.\nYOU ENTERED AN INVALID INPUT"
         except:
             print("No internet Connection")
             word_info = "NO INTERNET CONNECTION\n\tTRY AGAIN"
 
         return word_info
-
-
-
