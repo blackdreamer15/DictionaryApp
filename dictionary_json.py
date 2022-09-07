@@ -2,6 +2,7 @@ import json
 import time
 import difflib
 
+
 class DictionaryJSON():
 
     def __init__(self, word=""):
@@ -24,22 +25,21 @@ class DictionaryJSON():
                 n = 5
                 cutoff = 0.7
 
-                close_matches = difflib.get_close_matches(word, 
-                                dictionary_data, n, cutoff)
+                close_matches = difflib.get_close_matches(word,
+                                                          dictionary_data, n, cutoff)
 
                 print(close_matches)
-                if close_matches== []:
-                    word_info = f"NO MATCHING WORD WAS FOUND \n INVALID INPUTS"
+                if close_matches == []:
+                    word_info = "NO MATCHING WORD WAS FOUND.\nYOU ENTERED AN INVALID INPUT"
                 else:
-                    word_info=", ".join(close_matches).title()
-                    word_info = f"NO MATCHING WORD WAS FOUND \n TRY THESE \n  {word_info}"
+                    word_info = ", ".join(close_matches).title()
+                    word_info = f"NO MATCHING WORD WAS FOUND\nTRY THIS WORD:\n\n {word_info}"
         else:
             try:
                 with open(directory) as dir:
                     dictionary_data = json.load(dir)
             except FileNotFoundError:
-                word_info= "NO MATCHING WORD WAS FOUND \n INVALID INPUT"
+                word_info = "NO MATCHING WORD WAS FOUND.\nYOU ENTERED AN INVALID INPUT"
                 print("Word does not exist.")
 
         return word_info
-
